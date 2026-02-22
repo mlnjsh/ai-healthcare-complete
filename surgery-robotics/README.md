@@ -14,33 +14,33 @@ AI-powered surgical robotics combines precision engineering with machine learnin
 
 | System | Manufacturer | Specialties | FDA Status | Installed Base |
 |--------|-------------|-------------|-----------|---------------|
-| da Vinci (Xi, SP, 5) | Intuitive Surgical | Urology, gynecology, general | FDA-cleared | 9,000+ worldwide |
-| Hugo RAS | Medtronic | General surgery, urology | CE Mark, FDA pending | 100+ |
-| Ion (robotic bronchoscopy) | Intuitive Surgical | Pulmonology | FDA-cleared | 500+ |
-| Versius | CMR Surgical | General, gynecology | CE Mark | 200+ |
-| ROSA | Zimmer Biomet | Orthopedics (knee, spine) | FDA-cleared | 1,500+ |
-| Mako | Stryker | Joint replacement | FDA-cleared | 2,500+ |
-| Monarch | Johnson & Johnson (Auris) | Bronchoscopy, urology | FDA-cleared | 300+ |
+| da Vinci (Xi, SP, 5) | [Intuitive Surgical](https://www.intuitivesurgical.com) | Urology, gynecology, general | FDA-cleared | 9,000+ worldwide |
+| Hugo RAS | [Medtronic](https://www.medtronic.com) | General surgery, urology | CE Mark, FDA pending | 100+ |
+| Ion (robotic bronchoscopy) | [Intuitive Surgical](https://www.intuitivesurgical.com) | Pulmonology | FDA-cleared | 500+ |
+| Versius | [CMR Surgical](https://www.cmrsurgical.com) | General, gynecology | CE Mark | 200+ |
+| ROSA | [Zimmer Biomet](https://www.zimmerbiomet.com) | Orthopedics (knee, spine) | FDA-cleared | 1,500+ |
+| Mako | [Stryker](https://www.stryker.com) | Joint replacement | FDA-cleared | 2,500+ |
+| Monarch | [Johnson & Johnson (Auris)](https://www.jnjmedtech.com) | Bronchoscopy, urology | FDA-cleared | 300+ |
 | STAR (research) | Johns Hopkins | Soft tissue surgery | Research | Prototype |
 
 ### 2. AI-Enhanced Surgical Planning
 
 | Application | Description | Key Players |
 |------------|-------------|-------------|
-| 3D anatomical modeling | Create patient-specific 3D models from CT/MRI | Surgical Theater, Medivis, Proprio |
-| Surgical simulation | VR/AR training with AI feedback | Osso VR, FundamentalVR, Touch Surgery |
-| Preoperative planning | AI-optimized surgical approach | Brainlab, Stryker Blueprint |
-| Implant sizing/positioning | AI-predicted optimal placement | Zimmer Biomet, Smith+Nephew |
+| 3D anatomical modeling | Create patient-specific 3D models from CT/MRI | [Surgical Theater](https://www.surgicaltheater.net), Medivis, [Proprio](https://www.propriovision.com) |
+| Surgical simulation | VR/AR training with AI feedback | [Osso VR](https://www.ossovr.com), FundamentalVR, Touch Surgery |
+| Preoperative planning | AI-optimized surgical approach | Brainlab, [Stryker](https://www.stryker.com) Blueprint |
+| Implant sizing/positioning | AI-predicted optimal placement | [Zimmer Biomet](https://www.zimmerbiomet.com), Smith+Nephew |
 
 ### 3. Intraoperative AI
 
 | Application | Description | Key Players |
 |------------|-------------|-------------|
-| Real-time tissue identification | Distinguish tissue types during surgery | Activ Surgical, Theator |
-| Critical structure detection | Identify nerves, blood vessels, ureters | Activ Surgical (ActivSight) |
-| Surgical phase recognition | Automatically identify surgical steps | Theator, Digital Surgery (Medtronic) |
+| Real-time tissue identification | Distinguish tissue types during surgery | [Activ Surgical](https://www.activsurgical.com), [Theator](https://www.theator.io) |
+| Critical structure detection | Identify nerves, blood vessels, ureters | [Activ Surgical](https://www.activsurgical.com) (ActivSight) |
+| Surgical phase recognition | Automatically identify surgical steps | [Theator](https://www.theator.io), Digital Surgery ([Medtronic](https://www.medtronic.com)) |
 | Bleeding prediction | Predict and prevent intraoperative bleeding | Research stage |
-| Instrument tracking | Track surgical tool positions | Caresyntax, ORHub |
+| Instrument tracking | Track surgical tool positions | [Caresyntax](https://www.caresyntax.com), ORHub |
 
 ### 4. Postoperative AI
 
@@ -48,8 +48,8 @@ AI-powered surgical robotics combines precision engineering with machine learnin
 |------------|-------------|-------------|
 | Complication prediction | Predict post-surgical complications | Surgical Safety Technologies |
 | Recovery monitoring | Track patient recovery trajectory | Current Health (Best Buy), Biofourmis |
-| Outcome analytics | Analyze surgical outcomes at scale | Caresyntax, Theator |
-| Remote patient monitoring | Post-discharge monitoring | Vivify Health, Medtronic Care Management |
+| Outcome analytics | Analyze surgical outcomes at scale | [Caresyntax](https://www.caresyntax.com), [Theator](https://www.theator.io) |
+| Remote patient monitoring | Post-discharge monitoring | Vivify Health, [Medtronic](https://www.medtronic.com) Care Management |
 
 ---
 
@@ -68,11 +68,11 @@ AI-powered surgical robotics combines precision engineering with machine learnin
 
 ### Milestone Achievements
 - **2006:** da Vinci becomes standard for prostatectomy
-- **2016:** STAR robot performs autonomous soft tissue suturing (Johns Hopkins)
+- **2016:** [STAR robot performs autonomous soft tissue suturing](https://doi.org/10.1126/scitranslmed.aad9398) (Johns Hopkins)
 - **2020:** AI-based surgical phase recognition deployed clinically
 - **2022:** STAR performs laparoscopic surgery on pig tissue autonomously
 - **2023:** da Vinci 5 launched with integrated AI capabilities
-- **2024:** Medtronic Hugo receives additional regulatory clearances
+- **2024:** [Medtronic](https://www.medtronic.com) Hugo receives additional regulatory clearances
 - **2025:** Multiple AI surgical assistance features enter clinical validation
 
 ---
@@ -82,32 +82,32 @@ AI-powered surgical robotics combines precision engineering with machine learnin
 ### Surgical Robotics Leaders
 | Company | Market Cap / Valuation | Key Product | AI Integration |
 |---------|----------------------|-------------|---------------|
-| Intuitive Surgical | ~$170B | da Vinci, Ion | My Intuitive (AI analytics), case insights |
-| Medtronic | ~$110B | Hugo RAS, Touch Surgery | AI surgical planning, video analysis |
-| Stryker | ~$130B | Mako, Spine robotics | AI-guided joint replacement |
-| Johnson & Johnson | ~$400B | Ottava (development), Monarch | AI bronchoscopy navigation |
-| Zimmer Biomet | ~$25B | ROSA | AI knee/spine planning |
-| CMR Surgical | ~$3B | Versius | Modular AI-assisted surgery |
+| [Intuitive Surgical](https://www.intuitivesurgical.com) | ~$170B | da Vinci, Ion | My Intuitive (AI analytics), case insights |
+| [Medtronic](https://www.medtronic.com) | ~$110B | Hugo RAS, Touch Surgery | AI surgical planning, video analysis |
+| [Stryker](https://www.stryker.com) | ~$130B | Mako, Spine robotics | AI-guided joint replacement |
+| [Johnson & Johnson](https://www.jnjmedtech.com) | ~$400B | Ottava (development), Monarch | AI bronchoscopy navigation |
+| [Zimmer Biomet](https://www.zimmerbiomet.com) | ~$25B | ROSA | AI knee/spine planning |
+| [CMR Surgical](https://www.cmrsurgical.com) | ~$3B | Versius | Modular AI-assisted surgery |
 
 ### AI Surgical Software Companies
 | Company | Focus | Funding | Notable |
 |---------|-------|---------|---------|
-| Theator | Surgical video intelligence | $50M+ | AI surgical coaching |
-| Activ Surgical | Intraoperative AI visualization | $100M+ | ActivSight, ActivEdge |
-| Caresyntax | Surgical data platform | $200M+ | 3M+ surgeries analyzed |
-| Proprio | 3D surgical navigation | $70M+ | Light Field technology |
-| Surgical Theater | VR surgical planning | Acquired (Medtronic) | 3D patient-specific models |
-| Digital Surgery | AI surgical decision support | Acquired (Medtronic) | Touch Surgery ecosystem |
-| Osso VR | Surgical training simulation | $100M+ | VR + AI training platform |
-| Proximie | Remote surgical assistance | $80M+ | AR surgical collaboration |
+| [Theator](https://www.theator.io) | Surgical video intelligence | $50M+ | AI surgical coaching |
+| [Activ Surgical](https://www.activsurgical.com) | Intraoperative AI visualization | $100M+ | ActivSight, ActivEdge |
+| [Caresyntax](https://www.caresyntax.com) | Surgical data platform | $200M+ | 3M+ surgeries analyzed |
+| [Proprio](https://www.propriovision.com) | 3D surgical navigation | $70M+ | Light Field technology |
+| [Surgical Theater](https://www.surgicaltheater.net) | VR surgical planning | Acquired (Medtronic) | 3D patient-specific models |
+| Digital Surgery | AI surgical decision support | Acquired ([Medtronic](https://www.medtronic.com)) | Touch Surgery ecosystem |
+| [Osso VR](https://www.ossovr.com) | Surgical training simulation | $100M+ | VR + AI training platform |
+| [Proximie](https://www.proximie.com) | Remote surgical assistance | $80M+ | AR surgical collaboration |
 
 ---
 
 ## Surgical Specialties & AI Applications
 
 ### Orthopedic Surgery
-- **Joint replacement:** Mako (Stryker) uses CT-based 3D planning + robotic arm for precise bone cuts
-- **Spine surgery:** ROSA (Zimmer Biomet), Mazor X (Medtronic) for pedicle screw placement
+- **Joint replacement:** Mako ([Stryker](https://www.stryker.com)) uses CT-based 3D planning + robotic arm for precise bone cuts
+- **Spine surgery:** ROSA ([Zimmer Biomet](https://www.zimmerbiomet.com)), Mazor X ([Medtronic](https://www.medtronic.com)) for pedicle screw placement
 - **Accuracy improvement:** 1.5mm precision vs 3-5mm manual
 - **Outcome data:** 30% fewer revisions with robotic-assisted knee replacement
 
@@ -138,17 +138,17 @@ AI-powered surgical robotics combines precision engineering with machine learnin
 ## Research Papers (Must-Read)
 
 ### Foundational
-1. **"Supervised autonomous robotic soft tissue surgery"** — Shademan et al. (2016) — Science Translational Medicine (STAR robot)
+1. **["Supervised autonomous robotic soft tissue surgery"](https://doi.org/10.1126/scitranslmed.aad9398)** — Shademan et al. (2016) — Science Translational Medicine (STAR robot)
 2. **"Toward autonomous robotic surgery: The transatlantic experience"** — Haidegger et al.
-3. **"Artificial Intelligence in Surgery"** — Hashimoto et al. (2018) — Annals of Surgery
-4. **"Surgical Data Science"** — Maier-Hein et al. (2022) — Nature Biomedical Engineering
-5. **"Computer Vision in Surgery"** — Twinanda et al. (2017) — Medical Image Analysis
+3. **["Artificial Intelligence in Surgery"](https://doi.org/10.1097/SLA.0000000000002693)** — Hashimoto et al. (2018) — Annals of Surgery
+4. **["Surgical Data Science"](https://www.nature.com/articles/s41551-022-00882-6)** — Maier-Hein et al. (2022) — Nature Biomedical Engineering
+5. **["Computer Vision in Surgery" (EndoNet)](https://doi.org/10.1016/j.media.2016.09.003)** — Twinanda et al. (2017) — Medical Image Analysis
 
 ### Recent (2024-2025)
 1. **"Foundation Models for Surgical Video Understanding"** — Multiple groups (2024)
 2. **"Autonomous Tissue Manipulation"** — Johns Hopkins/STAR updates (2024)
 3. **"LLMs for Surgical Decision Support"** — Various (2024)
-4. **"Real-time AI surgical guidance systems"** — Activ Surgical publications (2024)
+4. **"Real-time AI surgical guidance systems"** — [Activ Surgical](https://www.activsurgical.com) publications (2024)
 5. **"Surgical Digital Twins"** — Emerging concept papers (2025)
 
 ---
@@ -157,8 +157,8 @@ AI-powered surgical robotics combines precision engineering with machine learnin
 
 | Source | Content |
 |--------|---------|
-| Intuitive Surgical (official) | da Vinci procedure videos, training |
-| Theator | AI surgical analysis demos |
+| [Intuitive Surgical (YouTube)](https://www.youtube.com/@IntuitiveSurgical) | da Vinci procedure videos, training |
+| [Theator (YouTube)](https://www.youtube.com/@TheatorInc) | AI surgical analysis demos |
 | Surgical Robotics conferences | IROS, ICRA surgical sessions |
 | Royal College of Surgeons | AI in surgery lectures |
 | ACS (American College of Surgeons) | AI and robotics symposia |
@@ -192,5 +192,5 @@ AI-powered surgical robotics combines precision engineering with machine learnin
 
 ---
 
-*Sources: Intuitive Surgical reports, JAMA Surgery, Annals of Surgery, Nature Biomedical Engineering*
+*Sources: [Intuitive Surgical](https://www.intuitivesurgical.com) reports, JAMA Surgery, Annals of Surgery, [Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/)*
 *Updated: February 2025*

@@ -50,16 +50,16 @@
 ### Top Companies
 | Company | Focus | Notable | Funding/Status |
 |---------|-------|---------|---------------|
-| **Viz.ai** | Stroke detection | <6 min alert to specialist | $250M+ raised |
-| **Aidoc** | Full-body CT triage | Always-on radiology AI | $250M+ raised |
-| **Tempus** | Cancer genomics + imaging | Largest clinical database | IPO 2024 |
-| **PathAI** | Digital pathology | Partners with top pharma | $400M+ raised |
-| **Paige AI** | Cancer pathology | First FDA-cleared AI pathology | $200M+ raised |
+| **[Viz.ai](https://viz.ai)** | Stroke detection | <6 min alert to specialist | $250M+ raised |
+| **[Aidoc](https://aidoc.com)** | Full-body CT triage | Always-on radiology AI | $250M+ raised |
+| **[Tempus](https://tempus.com)** | Cancer genomics + imaging | Largest clinical database | IPO 2024 |
+| **[PathAI](https://pathai.com)** | Digital pathology | Partners with top pharma | $400M+ raised |
+| **[Paige AI](https://paige.ai)** | Cancer pathology | First FDA-cleared AI pathology | $200M+ raised |
 | **Zebra Medical** | Multi-organ imaging | 12+ FDA clearances | Acquired by Nanox |
-| **Qure.ai** | Chest X-ray, head CT | Strong in India, Africa | $65M+ raised |
-| **Lunit** | Mammography, chest X-ray | South Korea leader | Public (KOSDAQ) |
+| **[Qure.ai](https://qure.ai)** | Chest X-ray, head CT | Strong in India, Africa | $65M+ raised |
+| **[Lunit](https://lunit.io)** | Mammography, chest X-ray | South Korea leader | Public (KOSDAQ) |
 | **HeartFlow** | Coronary artery analysis | Non-invasive FFR from CT | IPO 2024 |
-| **Caption Health** | Ultrasound guidance | AI-guided echo | Acquired by GE |
+| **[Caption Health](https://captionhealth.com)** | Ultrasound guidance | AI-guided echo | Acquired by GE |
 | **Google Health** | Retinal, mammography, dermatology | DeepMind research | Alphabet |
 | **Butterfly Network** | Handheld ultrasound + AI | Point-of-care imaging | Public (NYSE) |
 
@@ -84,16 +84,16 @@
 ### Top Surgical AI Companies
 | Company | Product | Type | Status |
 |---------|---------|------|--------|
-| **Intuitive Surgical** | Da Vinci 5 | Robotic surgery platform | Public ($150B+) |
-| **Medtronic** | Hugo RAS | Robotic-assisted surgery | Commercializing |
-| **Johnson & Johnson** | OTTAVA | Digital surgery platform | Development |
-| **Stryker** | Mako SmartRobotics | Orthopedic robot | Market leader |
-| **Zimmer Biomet** | ROSA Robot | Knee/spine surgery | Growing |
-| **CMR Surgical** | Versius | Modular surgical robot | $1.6B+ raised |
+| **[Intuitive Surgical](https://intuitivesurgical.com)** | Da Vinci 5 | Robotic surgery platform | Public ($150B+) |
+| **[Medtronic](https://medtronic.com)** | Hugo RAS | Robotic-assisted surgery | Commercializing |
+| **[Johnson & Johnson](https://jnjmedtech.com)** | OTTAVA | Digital surgery platform | Development |
+| **[Stryker](https://stryker.com)** | Mako SmartRobotics | Orthopedic robot | Market leader |
+| **[Zimmer Biomet](https://zimmerbiomet.com)** | ROSA Robot | Knee/spine surgery | Growing |
+| **[CMR Surgical](https://cmrsurgical.com)** | Versius | Modular surgical robot | $1.6B+ raised |
 | **Vicarious Surgical** | Miniature robot | Single-incision surgery | Public |
 | **Proximie** | AR surgical platform | Remote surgery assistance | $80M+ raised |
-| **Activ Surgical** | ActivSight | Intraoperative imaging AI | $50M+ raised |
-| **Theator** | Surgical intelligence | Video analysis of surgery | $30M+ raised |
+| **[Activ Surgical](https://activsurgical.com)** | ActivSight | Intraoperative imaging AI | $50M+ raised |
+| **[Theator](https://theator.io)** | Surgical intelligence | Video analysis of surgery | $30M+ raised |
 
 **[Full details →](surgery-robotics/README.md)**
 
@@ -118,14 +118,14 @@
 ### Top Oncology AI Companies
 | Company | Focus | Notable |
 |---------|-------|---------|
-| **Tempus** | Genomic profiling + AI | Largest clinical dataset, IPO 2024 |
-| **Foundation Medicine** (Roche) | Tumor genomics | FoundationOne CDx |
+| **[Tempus](https://tempus.com)** | Genomic profiling + AI | Largest clinical dataset, IPO 2024 |
+| **[Foundation Medicine](https://foundationmedicine.com)** (Roche) | Tumor genomics | FoundationOne CDx |
 | **Flatiron Health** (Roche) | Oncology EHR + analytics | Real-world evidence |
 | **Varian** (Siemens) | Radiation therapy AI | AI treatment planning |
 | **Elekta** | Radiation therapy | Unity MR-linac + AI |
 | **SOPHiA Genetics** | Genomic data analysis | Multi-modal AI platform |
 | **Immunai** | Immune system profiling | Single-cell AI |
-| **Owkin** | Federated learning oncology | France-based, $300M+ |
+| **[Owkin](https://owkin.com)** | Federated learning oncology | France-based, $300M+ |
 | **Concerto HealthAI** | Real-world oncology data | Treatment insights |
 | **Predictive Oncology** | Drug sensitivity | Lab + AI combination |
 
@@ -143,8 +143,8 @@
 | Clinical NLP | Extract info from unstructured notes | AWS Comprehend Medical, Google HCNLP |
 | Predictive analytics | Predict readmission, deterioration, sepsis | Epic Sepsis Model, CLEW |
 | Clinical decision support | Alert physicians to drug interactions, guidelines | Epic CDS, Cerner AI |
-| Automated coding | Generate ICD/CPT codes from notes | 3M, Nuance DAX |
-| Note generation | Auto-generate clinical notes from conversation | Nuance DAX, Abridge, Nabla |
+| Automated coding | Generate ICD/CPT codes from notes | 3M, [Nuance DAX](https://nuance.com/healthcare/ambient-clinical-intelligence.html) |
+| Note generation | Auto-generate clinical notes from conversation | [Nuance DAX](https://nuance.com/healthcare/ambient-clinical-intelligence.html), [Abridge](https://abridge.com), Nabla |
 | Prior authorization | Automate insurance pre-approval | Olive AI, Cohere Health |
 | Population health | Identify at-risk patient cohorts | Health Catalyst, Innovaccer |
 | Interoperability | Map data across systems (FHIR, HL7) | Rhino Health, 1upHealth |
@@ -152,12 +152,12 @@
 ### Top EHR AI Companies
 | Company | Product | Focus |
 |---------|---------|-------|
-| **Epic Systems** | Cognitive Computing | Embedded AI in #1 EHR |
-| **Oracle Health** (Cerner) | AI Platform | Cloud-based EHR AI |
-| **Nuance** (Microsoft) | DAX Copilot | Ambient clinical documentation |
-| **Abridge** | AI Medical Scribe | Real-time note generation |
+| **[Epic Systems](https://epic.com)** | Cognitive Computing | Embedded AI in #1 EHR |
+| **[Oracle Health](https://oracle.com/health/)** (Cerner) | AI Platform | Cloud-based EHR AI |
+| **[Nuance](https://nuance.com/healthcare/ambient-clinical-intelligence.html)** (Microsoft) | DAX Copilot | Ambient clinical documentation |
+| **[Abridge](https://abridge.com)** | AI Medical Scribe | Real-time note generation |
 | **Nabla** | Copilot for Clinicians | European clinical AI |
-| **Suki AI** | Voice Assistant | AI for clinical documentation |
+| **[Suki AI](https://suki.ai)** | Voice Assistant | AI for clinical documentation |
 | **Health Catalyst** | DOS Platform | Healthcare analytics |
 | **Innovaccer** | Health Cloud | Patient data unification |
 | **Google Cloud Healthcare** | Healthcare API | FHIR + AI integration |
@@ -184,6 +184,17 @@
 | PharmAgent | Research | Drug interaction checking agent | Prototype |
 | TrialGPT | NIH | Clinical trial matching agent | Open-source |
 
+### Agentic AI Companies in Healthcare
+| Company | Focus |
+|---------|-------|
+| **[Hippocratic AI](https://hippocratic.ai)** | Safety-focused healthcare AI agents |
+| **[Notable Health](https://notablehealth.com)** | Intelligent automation for health systems |
+| **[AKASA](https://akasa.com)** | Revenue cycle automation agents |
+| **[Viz.ai](https://viz.ai)** | Stroke detection and care coordination agents |
+| **[Infinitus](https://infinitus.ai)** | AI phone agents for healthcare admin |
+| **[K Health](https://khealth.com)** | AI-powered primary care |
+| **[Qventus](https://qventus.com)** | AI-driven hospital operations |
+
 **[Full details →](agentic-ai-medicine/README.md)**
 
 ---
@@ -203,6 +214,15 @@
 | Emergency dept | Predict arrivals, triage priority | 20-40% wait time reduction |
 | OR utilization | Schedule optimization, turnover prediction | 15-25% more cases |
 | Readmission prevention | Identify high-risk patients | 10-20% reduction |
+
+### Hospital Operations AI Companies
+| Company | Focus |
+|---------|-------|
+| **[Qventus](https://qventus.com)** | AI-driven operational decision-making |
+| **[LeanTaaS](https://leantaas.com)** | OR, infusion center, and bed optimization |
+| **[Care.ai](https://care.ai)** | Ambient monitoring and smart hospital rooms |
+| **[Cedar](https://cedar.com)** | AI-powered patient financial experience |
+| **[Palantir](https://palantir.com)** | Health system data analytics and operations |
 
 **[Full details →](hospital-operations/README.md)**
 
@@ -225,16 +245,16 @@
 ### Top Drug Discovery AI Companies
 | Company | Focus | Funding | Notable |
 |---------|-------|---------|---------|
-| **Recursion** | Full-stack drug discovery | Public ($2B+) | OS-level biology platform |
-| **Insilico Medicine** | End-to-end AI drug design | $400M+ | First AI-designed drug in Phase 2 |
-| **Exscientia** | Precision medicine | Public | AI-designed molecules in clinic |
-| **Isomorphic Labs** (DeepMind) | Protein-based drug design | Alphabet | AlphaFold technology |
-| **Relay Therapeutics** | Motion-based drug design | Public | AI + structural biology |
-| **Schrödinger** | Physics-based drug design | Public ($3B+) | Molecular simulation |
+| **[Recursion](https://recursion.com)** | Full-stack drug discovery | Public ($2B+) | OS-level biology platform |
+| **[Insilico Medicine](https://insilico.com)** | End-to-end AI drug design | $400M+ | First AI-designed drug in Phase 2 |
+| **[Exscientia](https://exscientia.ai)** | Precision medicine | Public | AI-designed molecules in clinic |
+| **[Isomorphic Labs](https://isomorphiclabs.com)** (DeepMind) | Protein-based drug design | Alphabet | AlphaFold technology |
+| **[Relay Therapeutics](https://relaytx.com)** | Motion-based drug design | Public | AI + structural biology |
+| **[Schrödinger](https://schrodinger.com)** | Physics-based drug design | Public ($3B+) | Molecular simulation |
 | **BenevolentAI** | Drug repurposing + discovery | Public (London) | COVID drug candidates |
 | **Atomwise** | Structure-based drug design | $175M+ | Virtual screening |
 | **XtalPi** | AI + quantum physics | $700M+ | Crystal structure prediction |
-| **Generate Biomedicines** | Generative protein design | $370M+ | De novo protein generation |
+| **[Generate Biomedicines](https://generatebiomedicines.com)** | Generative protein design | $370M+ | De novo protein generation |
 
 **[Full details →](drug-discovery/README.md)**
 
@@ -244,11 +264,20 @@
 
 | Application | AI Capability | Companies |
 |-------------|------------|-----------|
-| Blood work analysis | Auto-interpret CBC, metabolic panels | Sight Diagnostics, SigTuple |
+| Blood work analysis | Auto-interpret CBC, metabolic panels | [Sight Diagnostics](https://sightdx.com), SigTuple |
 | Genomic analysis | Variant calling, interpretation | Illumina DRAGEN, Deep Genomics |
-| Liquid biopsy | Detect cancer from blood draw | GRAIL, Guardant Health |
+| Liquid biopsy | Detect cancer from blood draw | [GRAIL](https://grail.com), [Guardant Health](https://guardanthealth.com) |
 | Microbiology | Pathogen identification, resistance prediction | Accelerate Diagnostics, BioMérieux |
 | Point-of-care testing | AI-enabled rapid diagnostics | Butterfly Network, Healthy.io |
+
+### Additional Diagnostics Companies
+| Company | Focus |
+|---------|-------|
+| **[Ada Health](https://ada.com)** | AI-powered symptom assessment |
+| **[Eko](https://ekohealth.com)** | AI-enhanced stethoscope and cardiac diagnostics |
+| **[AliveCor](https://alivecor.com)** | Personal ECG and AI heart rhythm analysis |
+| **[Invitae](https://invitae.com)** | Genetic testing and AI interpretation |
+| **[SomaLogic](https://somalogic.com)** | Proteomics-based diagnostics |
 
 **[Full details →](diagnostics/README.md)**
 
@@ -258,11 +287,18 @@
 
 | Application | What AI Does | Companies |
 |-------------|-------------|-----------|
-| Therapy chatbots | CBT-based conversational therapy | Woebot, Wysa, Youper |
+| Therapy chatbots | CBT-based conversational therapy | [Woebot](https://woebothealth.com), [Wysa](https://wysa.com), Youper |
 | Mood tracking | NLP analysis of speech/text patterns | Ginger, Mindstrong |
 | Crisis detection | Identify suicidal ideation signals | Crisis Text Line AI |
-| Treatment matching | Match patients to therapists/treatments | Spring Health, Cerebral |
+| Treatment matching | Match patients to therapists/treatments | [Spring Health](https://springhealth.com), [Cerebral](https://cerebral.com) |
 | Digital therapeutics | FDA-cleared AI treatments | Pear Therapeutics, Freespira |
+
+### Additional Mental Health AI Companies
+| Company | Focus |
+|---------|-------|
+| **[Headspace](https://headspace.com)** | AI-personalized mindfulness and mental wellness |
+| **[Kintsugi](https://kintsugihealth.com)** | Voice biomarker AI for mental health detection |
+| **[Eleos Health](https://eleoshealth.com)** | AI-powered behavioral health insights |
 
 **[Full details →](mental-health/README.md)**
 
@@ -272,14 +308,24 @@
 
 | Device/Platform | AI Capability | Company |
 |----------------|--------------|---------|
-| Apple Watch | Afib detection, fall detection, SpO2 | Apple |
+| [Apple Watch](https://apple.com/apple-watch-series-10/health/) | Afib detection, fall detection, SpO2 | Apple |
 | Fitbit/Pixel Watch | Heart rate anomaly, stress, sleep staging | Google |
-| Dexcom G7 | Continuous glucose monitoring + AI | Dexcom |
-| Oura Ring | Sleep analysis, temperature tracking | Oura |
+| [Dexcom](https://dexcom.com) G7 | Continuous glucose monitoring + AI | Dexcom |
+| [Oura Ring](https://ouraring.com) | Sleep analysis, temperature tracking | Oura |
 | BioButton | Continuous vital signs monitoring | BioIntelliSense |
 | Current Health | Hospital-at-home monitoring | Best Buy Health |
-| Biofourmis | AI-powered remote therapeutics | Biofourmis |
+| [Biofourmis](https://biofourmis.com) | AI-powered remote therapeutics | Biofourmis |
 | Livongo | Chronic condition management | Teladoc Health |
+
+### Additional Wearables & Monitoring Companies
+| Company | Focus |
+|---------|-------|
+| **[AliveCor](https://alivecor.com)** | Personal ECG and KardiaMobile AI |
+| **[Abbott Libre](https://freestyle.abbott)** | Continuous glucose monitoring |
+| **[WHOOP](https://whoop.com)** | Performance and health monitoring wearable |
+| **[iRhythm](https://irhythmtech.com)** | AI-powered cardiac monitoring (Zio patch) |
+| **[SWORD Health](https://swordhealth.com)** | AI-powered digital musculoskeletal therapy |
+| **[Hinge Health](https://hingehealth.com)** | Digital clinic for joint and muscle pain |
 
 **[Full details →](wearables-iot/README.md)**
 
@@ -325,6 +371,18 @@ AI Healthcare Startups:                    3,500+
 Clinical Trials Using AI (2024):           1,200+
 Lives Impacted by Healthcare AI:           Billions
 ```
+
+---
+
+## Key Sources & References
+
+| Source | Link |
+|--------|------|
+| FDA AI/ML Medical Devices | [fda.gov](https://fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices) |
+| WHO AI for Health | [who.int](https://who.int/health-topics/artificial-intelligence) |
+| Stanford HAI | [hai.stanford.edu](https://hai.stanford.edu) |
+| Nature Medicine | [nature.com/nm](https://nature.com/nm/) |
+| NEJM | [nejm.org](https://nejm.org) |
 
 ---
 

@@ -34,30 +34,30 @@ Cost               $2.6B          ~$1B (estimated)
 
 | Application | Description | Key Players |
 |------------|-------------|-------------|
-| Knowledge graph mining | Identify novel drug targets from literature/omics | BenevolentAI, Causaly, Healx |
-| Multi-omics integration | Combine genomics, proteomics, metabolomics | Recursion, Insitro, Valo Health |
-| Protein structure prediction | Predict 3D protein structure for target druggability | DeepMind (AlphaFold), Meta (ESMFold) |
-| Genetic target discovery | CRISPR + AI screen for targets | Recursion, Cellarity |
-| Disease mechanism mapping | AI models of disease pathways | BenevolentAI, Exscientia |
+| Knowledge graph mining | Identify novel drug targets from literature/omics | [BenevolentAI](https://benevolent.com), [Causaly](https://causaly.com), [Healx](https://healx.ai) |
+| Multi-omics integration | Combine genomics, proteomics, metabolomics | [Recursion](https://recursion.com), [Insitro](https://insitro.com), [Valo Health](https://valohealth.com) |
+| Protein structure prediction | Predict 3D protein structure for target druggability | DeepMind ([AlphaFold](https://nature.com/articles/s41586-021-03819-2)), Meta ([ESMFold](https://github.com/facebookresearch/esm)) |
+| Genetic target discovery | CRISPR + AI screen for targets | [Recursion](https://recursion.com), [Cellarity](https://cellarity.com) |
+| Disease mechanism mapping | AI models of disease pathways | [BenevolentAI](https://benevolent.com), [Exscientia](https://exscientia.ai) |
 
 ### 2. Molecule Generation & Design
 
 | Application | Description | Key Players |
 |------------|-------------|-------------|
-| De novo molecule design | Generate novel drug-like molecules | Insilico Medicine, Exscientia, Generate Biomedicines |
-| Molecular optimization | Optimize lead compounds for potency/selectivity | Schrödinger, Relay Therapeutics |
-| Protein design | Design novel therapeutic proteins | Generate Biomedicines, Absci, David Baker lab |
-| Antibody design | AI-designed therapeutic antibodies | Absci, BigHat Biosciences, Nabla Bio |
+| De novo molecule design | Generate novel drug-like molecules | [Insilico Medicine](https://insilico.com), [Exscientia](https://exscientia.ai), [Generate Biomedicines](https://generatebiomedicines.com) |
+| Molecular optimization | Optimize lead compounds for potency/selectivity | [Schrodinger](https://schrodinger.com), [Relay Therapeutics](https://relaytx.com) |
+| Protein design | Design novel therapeutic proteins | [Generate Biomedicines](https://generatebiomedicines.com), [Absci](https://absci.com), David Baker lab |
+| Antibody design | AI-designed therapeutic antibodies | [Absci](https://absci.com), [BigHat Biosciences](https://bighatbio.com), Nabla Bio |
 | PROTAC design | Design protein degraders | Arvinas + AI partners |
 
 ### 3. Virtual Screening
 
 | Application | Description | Key Players |
 |------------|-------------|-------------|
-| Structure-based screening | Dock molecules against protein targets | Schrödinger, OpenEye (Cadence) |
-| Ligand-based screening | Find similar molecules to known actives | Atomwise, Chemify |
-| Ultra-large library screening | Screen billions of virtual molecules | Enamine REAL + AI, Recursion |
-| Fragment-based design | AI-guided fragment growing/linking | Exscientia, Astex (Otsuka) |
+| Structure-based screening | Dock molecules against protein targets | [Schrodinger](https://schrodinger.com), OpenEye (Cadence) |
+| Ligand-based screening | Find similar molecules to known actives | [Atomwise](https://atomwise.com), Chemify |
+| Ultra-large library screening | Screen billions of virtual molecules | Enamine REAL + AI, [Recursion](https://recursion.com) |
+| Fragment-based design | AI-guided fragment growing/linking | [Exscientia](https://exscientia.ai), Astex (Otsuka) |
 
 ### 4. ADMET Prediction
 
@@ -73,11 +73,11 @@ Cost               $2.6B          ~$1B (estimated)
 
 | Application | Description | Key Players |
 |------------|-------------|-------------|
-| Patient recruitment | AI-matched trial enrollment | Deep 6 AI, TriNetX, Unlearn.AI |
-| Trial design | Synthetic control arms, adaptive designs | Unlearn.AI, Medidata (Dassault) |
-| Endpoint prediction | Predict trial success probability | Insilico Medicine, Owkin |
+| Patient recruitment | AI-matched trial enrollment | [Deep 6 AI](https://deep6.ai), [TriNetX](https://trinetx.com), [Unlearn.AI](https://unlearn.ai) |
+| Trial design | Synthetic control arms, adaptive designs | [Unlearn.AI](https://unlearn.ai), Medidata (Dassault) |
+| Endpoint prediction | Predict trial success probability | [Insilico Medicine](https://insilico.com), Owkin |
 | Biomarker discovery | Identify predictive/prognostic biomarkers | Tempus, Foundation Medicine |
-| Real-world evidence | Generate evidence from real-world data | Flatiron (Roche), Aetion, Veradigm |
+| Real-world evidence | Generate evidence from real-world data | [Flatiron](https://flatiron.com) (Roche), [Aetion](https://aetion.com), Veradigm |
 
 ---
 
@@ -86,28 +86,28 @@ Cost               $2.6B          ~$1B (estimated)
 ### AI-First Drug Discovery
 | Company | Founded | Funding | Pipeline Stage | Key Focus |
 |---------|---------|---------|---------------|-----------|
-| Recursion | 2013 | $800M+ (IPO) | Phase II | Phenomics, rare disease |
-| Insilico Medicine | 2014 | $400M+ | Phase II | Generative chemistry, IPF |
-| Exscientia | 2012 | $500M+ (IPO) | Phase I/II | Precision medicine, oncology |
-| Insitro | 2018 | $700M+ | Preclinical | ML + biology, metabolic disease |
-| Generate Biomedicines | 2019 | $400M+ | Preclinical | Generative protein design |
-| Absci | 2011 | $300M+ (IPO) | Preclinical | AI antibody design |
-| BenevolentAI | 2013 | $400M+ (IPO) | Phase II | Knowledge graph, inflammation |
-| Relay Therapeutics | 2016 | $700M+ (IPO) | Phase II | Motion-based drug design |
-| Schrödinger | 1990 | $300M+ (IPO) | Platform | Physics-based + ML |
-| Isomorphic Labs | 2021 | DeepMind spin-off | Preclinical | AlphaFold for drug design |
+| [Recursion](https://recursion.com) | 2013 | $800M+ (IPO) | Phase II | Phenomics, rare disease |
+| [Insilico Medicine](https://insilico.com) | 2014 | $400M+ | Phase II | Generative chemistry, IPF |
+| [Exscientia](https://exscientia.ai) | 2012 | $500M+ (IPO) | Phase I/II | Precision medicine, oncology |
+| [Insitro](https://insitro.com) | 2018 | $700M+ | Preclinical | ML + biology, metabolic disease |
+| [Generate Biomedicines](https://generatebiomedicines.com) | 2019 | $400M+ | Preclinical | Generative protein design |
+| [Absci](https://absci.com) | 2011 | $300M+ (IPO) | Preclinical | AI antibody design |
+| [BenevolentAI](https://benevolent.com) | 2013 | $400M+ (IPO) | Phase II | Knowledge graph, inflammation |
+| [Relay Therapeutics](https://relaytx.com) | 2016 | $700M+ (IPO) | Phase II | Motion-based drug design |
+| [Schrodinger](https://schrodinger.com) | 1990 | $300M+ (IPO) | Platform | Physics-based + ML |
+| [Isomorphic Labs](https://isomorphiclabs.com) | 2021 | DeepMind spin-off | Preclinical | AlphaFold for drug design |
 
 ### Big Pharma AI Investments
 | Pharma Company | AI Strategy | Key Partners |
 |---------------|-------------|-------------|
-| Roche/Genentech | In-house AI + partnerships | Recursion, Flatiron, Foundation Medicine |
-| Novartis | Microsoft partnership, in-house AI | Microsoft, Isomorphic Labs |
+| Roche/Genentech | In-house AI + partnerships | [Recursion](https://recursion.com), [Flatiron](https://flatiron.com), Foundation Medicine |
+| Novartis | Microsoft partnership, in-house AI | Microsoft, [Isomorphic Labs](https://isomorphiclabs.com) |
 | Pfizer | AI-powered clinical development | Various AI partners |
-| AstraZeneca | AI across R&D pipeline | BenevolentAI, Absci |
-| Merck | AI drug discovery platform | Atomwise, Iktos |
-| Sanofi | AI factory with multiple partners | Exscientia, Insilico, Owkin |
+| AstraZeneca | AI across R&D pipeline | [BenevolentAI](https://benevolent.com), [Absci](https://absci.com) |
+| Merck | AI drug discovery platform | [Atomwise](https://atomwise.com), Iktos |
+| Sanofi | AI factory with multiple partners | [Exscientia](https://exscientia.ai), [Insilico](https://insilico.com), Owkin |
 | GSK | In-house AI unit | Various academic partners |
-| Amgen | denovo protein design | Generate Biomedicines |
+| Amgen | denovo protein design | [Generate Biomedicines](https://generatebiomedicines.com) |
 | Eli Lilly | AI clinical trials | Various |
 | Bristol-Myers Squibb | AI target discovery | Various |
 
@@ -118,26 +118,26 @@ Cost               $2.6B          ~$1B (estimated)
 ### Foundation Models for Drug Discovery
 | Model | Developer | Capability |
 |-------|-----------|-----------|
-| AlphaFold 2/3 | DeepMind | Protein structure prediction (Nobel Prize 2024) |
-| ESMFold / ESM-2 | Meta FAIR | Protein language model |
-| RFdiffusion | David Baker lab | Protein design via diffusion |
+| [AlphaFold 2](https://nature.com/articles/s41586-021-03819-2) / [AlphaFold 3](https://nature.com/articles/s41586-024-07487-w) | DeepMind ([GitHub](https://github.com/google-deepmind/alphafold)) | Protein structure prediction (Nobel Prize 2024) |
+| [ESMFold / ESM-2](https://github.com/facebookresearch/esm) | Meta FAIR | Protein language model |
+| [RFdiffusion](https://nature.com/articles/s41586-023-06415-8) | David Baker lab ([GitHub](https://github.com/RosettaCommons/RFdiffusion)) | Protein design via diffusion |
 | MolBERT / ChemBERTa | Various | Molecular property prediction |
-| DiffDock | MIT | Molecular docking with diffusion |
-| REINVENT | AstraZeneca | Generative molecular design |
+| [DiffDock](https://arxiv.org/abs/2210.01776) | MIT ([GitHub](https://github.com/gcorso/DiffDock)) | Molecular docking with diffusion |
+| [REINVENT](https://github.com/MolecularAI/REINVENT4) | AstraZeneca | Generative molecular design |
 | Uni-Mol | Various | Universal molecular representation |
 | DrugGPT | Various | Generative drug design |
 
 ### Open-Source Tools
 | Tool | Purpose | Developer |
 |------|---------|-----------|
-| RDKit | Cheminformatics toolkit | Open source |
-| DeepChem | Deep learning for chemistry | Open source |
-| OpenMM | Molecular dynamics simulation | Stanford |
-| AutoDock Vina | Molecular docking | Scripps |
-| REINVENT | Generative molecular design | AstraZeneca (open-sourced) |
-| TorchDrug | ML for drug discovery | Mila |
-| PyMOL | Molecular visualization | Schrödinger (open source) |
-| Open Babel | Chemical format conversion | Open source |
+| [RDKit](https://rdkit.org) | Cheminformatics toolkit | Open source ([GitHub](https://github.com/rdkit/rdkit)) |
+| [DeepChem](https://deepchem.io) | Deep learning for chemistry | Open source ([GitHub](https://github.com/deepchem/deepchem)) |
+| [OpenMM](https://openmm.org) | Molecular dynamics simulation | Stanford ([GitHub](https://github.com/openmm/openmm)) |
+| [AutoDock Vina](https://github.com/ccsb-scripps/AutoDock-Vina) | Molecular docking | Scripps |
+| [REINVENT](https://github.com/MolecularAI/REINVENT4) | Generative molecular design | AstraZeneca (open-sourced) |
+| [TorchDrug](https://github.com/DeepGraphLearning/torchdrug) | ML for drug discovery | Mila |
+| [PyMOL](https://pymol.org) | Molecular visualization | [Schrodinger](https://schrodinger.com) (open source) |
+| [Open Babel](https://github.com/openbabel/openbabel) | Chemical format conversion | Open source |
 
 ---
 
@@ -146,30 +146,30 @@ Cost               $2.6B          ~$1B (estimated)
 ### Molecules Discovered/Designed by AI (Selected)
 | Molecule | Company | Indication | Stage | Year AI-Designed |
 |----------|---------|-----------|-------|-----------------|
-| INS018_055 | Insilico Medicine | Idiopathic pulmonary fibrosis | Phase II | 2021 |
-| DSP-1181 | Exscientia/Sumitomo | OCD | Phase I (completed) | 2019 |
-| EXS4318 | Exscientia | Inflammation | Phase I | 2022 |
-| REC-994 | Recursion | Cerebral cavernous malformation | Phase II | 2020 |
-| BEN-2293 | BenevolentAI | Atopic dermatitis | Phase II | 2021 |
-| ISM001-055 | Insilico Medicine | COVID-19 | Phase I | 2020 |
+| INS018_055 | [Insilico Medicine](https://insilico.com) | Idiopathic pulmonary fibrosis | Phase II | 2021 |
+| DSP-1181 | [Exscientia](https://exscientia.ai)/Sumitomo | OCD | Phase I (completed) | 2019 |
+| EXS4318 | [Exscientia](https://exscientia.ai) | Inflammation | Phase I | 2022 |
+| REC-994 | [Recursion](https://recursion.com) | Cerebral cavernous malformation | Phase II | 2020 |
+| BEN-2293 | [BenevolentAI](https://benevolent.com) | Atopic dermatitis | Phase II | 2021 |
+| ISM001-055 | [Insilico Medicine](https://insilico.com) | COVID-19 | Phase I | 2020 |
 
 ---
 
 ## Research Papers (Must-Read)
 
 ### Foundational
-1. **"AlphaFold 2: Protein structure prediction at atomic accuracy"** — Jumper et al. (2021) — Nature
-2. **"Highly accurate protein structure prediction with AlphaFold"** — DeepMind — Nature
-3. **"A Deep Learning Approach to Antibiotic Discovery"** — Stokes et al. (2020) — Cell (Halicin discovery)
-4. **"De novo design of protein structure and function with RFdiffusion"** — Watson et al. (2023) — Nature
+1. **["Highly accurate protein structure prediction with AlphaFold"](https://nature.com/articles/s41586-021-03819-2)** — Jumper et al. (2021) — Nature
+2. **["AlphaFold 2: Protein structure prediction at atomic accuracy"](https://nature.com/articles/s41586-021-03819-2)** — DeepMind — Nature
+3. **["A Deep Learning Approach to Antibiotic Discovery"](https://doi.org/10.1016/j.cell.2020.01.021)** — Stokes et al. (2020) — Cell (Halicin discovery)
+4. **["De novo design of protein structure and function with RFdiffusion"](https://nature.com/articles/s41586-023-06415-8)** — Watson et al. (2023) — Nature
 5. **"Autonomous scientific research by AI"** — Coscientist paper (2023) — Nature
 
 ### Recent (2024-2025)
-1. **"AlphaFold 3: Accurate structure prediction of biomolecular complexes"** — DeepMind (2024)
+1. **["AlphaFold 3: Accurate structure prediction of biomolecular complexes"](https://nature.com/articles/s41586-024-07487-w)** — DeepMind (2024)
 2. **"Generative AI for molecular design"** — Multiple review papers (2024)
-3. **"AI-designed antibodies enter clinical trials"** — Absci, BigHat publications (2024)
+3. **"AI-designed antibodies enter clinical trials"** — [Absci](https://absci.com), [BigHat](https://bighatbio.com) publications (2024)
 4. **"Foundation models for drug discovery"** — Review papers (2024)
-5. **"Clinical outcomes of AI-discovered drugs"** — Insilico, Exscientia updates (2024-2025)
+5. **"Clinical outcomes of AI-discovered drugs"** — [Insilico](https://insilico.com), [Exscientia](https://exscientia.ai) updates (2024-2025)
 
 ---
 

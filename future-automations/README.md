@@ -42,7 +42,7 @@ High Automation                              Low Automation
 
 | Automation | Current State | 2027 Prediction | Impact |
 |-----------|--------------|----------------|--------|
-| Clinical documentation | Ambient AI deployed (DAX, Abridge) | 90%+ of notes auto-generated | Clinician burnout reduced 50% |
+| Clinical documentation | Ambient AI deployed ([Nuance DAX](https://nuance.com/healthcare/ambient-clinical-intelligence.html), [Abridge](https://abridge.com)) | 90%+ of notes auto-generated | Clinician burnout reduced 50% |
 | Medical coding | AI-assisted coding | 80% autonomous coding | $15B+ savings in US |
 | Radiology pre-read | AI triage and flagging | AI reads all routine studies, radiologist confirms | 3x radiologist throughput |
 | Prior authorization | Semi-automated | 70% fully automated | Days → minutes |
@@ -129,8 +129,8 @@ High Automation                              Low Automation
 | Automation | Tech Stack | Market |
 |-----------|-----------|--------|
 | AI medical coding assistant | LLM + ICD-10/CPT databases | $10B+ market |
-| Patient message auto-responder | LLM + EHR integration (FHIR) | Every health system |
-| Clinical trial matcher | LLM + ClinicalTrials.gov API | Pharma + hospitals |
+| Patient message auto-responder | LLM + EHR integration ([FHIR](https://hl7.org/fhir/)) | Every health system |
+| Clinical trial matcher | LLM + [ClinicalTrials.gov](https://clinicaltrials.gov) API | Pharma + hospitals |
 | Medical literature summarizer | LLM + PubMed API | Researchers, clinicians |
 | Prior auth automation bot | LLM + payer rules + fax/portal | Revenue cycle |
 | Symptom checker chatbot | LLM + medical knowledge bases | Telehealth companies |
@@ -140,7 +140,7 @@ High Automation                              Low Automation
 ### Medium Barrier (Needs Data/Partnerships)
 | Automation | Requirements | Market |
 |-----------|-------------|--------|
-| AI radiology pre-read | Labeled imaging data + FDA pathway | $5B+ market |
+| AI radiology pre-read | Labeled imaging data + [FDA](https://fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices) pathway | $5B+ market |
 | Ambient clinical documentation | Speech processing + EHR integration | $3B+ market |
 | AI-powered RPM platform | Wearable integration + clinical validation | $10B+ market |
 | Drug interaction predictor | Pharmacology data + clinical validation | Every hospital |
@@ -165,16 +165,16 @@ High Automation                              Low Automation
 ### Current Regulatory Framework
 | Regulatory Body | Approach | Status |
 |----------------|---------|--------|
-| FDA (USA) | Risk-based classification (510k, De Novo, PMA) | 970+ AI/ML devices cleared |
-| EU (MDR + AI Act) | CE marking + AI-specific regulation | AI Act enforcement 2025-2027 |
-| Health Canada | Pre-market guidance for ML devices | Framework published |
-| MHRA (UK) | Software as Medical Device guidance | Post-Brexit framework |
-| TGA (Australia) | SaMD regulatory framework | Aligned with IMDRF |
-| PMDA (Japan) | AI medical device approval | Active approvals |
-| WHO | AI for health governance guidance | Global guidance published |
+| [FDA](https://fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices) (USA) | Risk-based classification (510k, De Novo, PMA) | 970+ AI/ML devices cleared |
+| EU ([MDR](https://health.ec.europa.eu/medical-devices-sector/new-regulations_en) + [AI Act](https://artificialintelligenceact.eu)) | CE marking + AI-specific regulation | AI Act enforcement 2025-2027 |
+| [Health Canada](https://canada.ca/en/health-canada.html) | Pre-market guidance for ML devices | Framework published |
+| [MHRA](https://gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency) (UK) | Software as Medical Device guidance | Post-Brexit framework |
+| [TGA](https://tga.gov.au) (Australia) | SaMD regulatory framework | Aligned with IMDRF |
+| [PMDA](https://pmda.go.jp/english/) (Japan) | AI medical device approval | Active approvals |
+| [WHO](https://who.int/publications/i/item/9789240029200) | AI for health governance guidance | Global guidance published |
 
 ### What Needs to Change
-1. **Continuous learning approval** — FDA needs pathway for AI that updates itself
+1. **Continuous learning approval** — [FDA](https://fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices) needs pathway for AI that updates itself
 2. **Autonomous AI framework** — Clear rules for AI acting without human oversight
 3. **Liability clarity** — Legal framework for AI-caused harm
 4. **Data sharing regulations** — Enable multi-institutional AI training
@@ -212,7 +212,7 @@ High Automation                              Low Automation
 ## How to Get Started
 
 ### For Researchers
-1. Pick a problem with available data (MIMIC, CheXpert, etc.)
+1. Pick a problem with available data ([MIMIC](https://physionet.org/content/mimiciv/2.2/), [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/), etc.)
 2. Start with well-defined, narrow problems
 3. Focus on clinical validation, not just model accuracy
 4. Collaborate with clinicians from day one
@@ -221,8 +221,8 @@ High Automation                              Low Automation
 ### For Entrepreneurs
 1. Focus on "boring" automation first (coding, scheduling, prior auth)
 2. Get clinical champions early
-3. Plan for FDA/regulatory pathway from the start
-4. Build on existing standards (FHIR, OMOP)
+3. Plan for [FDA](https://fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)/regulatory pathway from the start
+4. Build on existing standards ([FHIR](https://hl7.org/fhir/), [OMOP](https://ohdsi.org))
 5. Design for integration, not replacement
 
 ### For Clinicians

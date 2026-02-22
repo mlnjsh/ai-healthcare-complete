@@ -40,44 +40,44 @@ Agentic AI refers to AI systems that can autonomously plan, execute, and iterate
 
 | Agent / System | Developer | What It Does | Status |
 |---------------|-----------|-------------|--------|
-| DAX Copilot | Microsoft/Nuance | Autonomously documents patient encounters | Production |
-| Hippocratic AI | Hippocratic AI | Patient-facing healthcare AI agent for non-diagnostic tasks | Clinical pilots |
-| Abridge | Abridge | Autonomous clinical documentation from conversations | Production |
-| Glass Health | Glass Health | AI agent that generates differential diagnoses and treatment plans | Clinical use |
+| [DAX Copilot](https://nuance.com/healthcare/ambient-clinical-intelligence.html) | Microsoft/Nuance | Autonomously documents patient encounters | Production |
+| [Hippocratic AI](https://hippocratic.ai) | Hippocratic AI | Patient-facing healthcare AI agent for non-diagnostic tasks | Clinical pilots |
+| [Abridge](https://abridge.com) | Abridge | Autonomous clinical documentation from conversations | Production |
+| [Glass Health](https://glass.health) | Glass Health | AI agent that generates differential diagnoses and treatment plans | Clinical use |
 | Babylon Health (legacy) | Babylon | AI triage + symptom assessment agent | Deployed (restructured) |
-| K Health | K Health | AI-first primary care with autonomous triage | Consumer app |
-| Sensely | Sensely | Virtual nurse agent for chronic disease management | Enterprise |
-| Buoy Health | Buoy Health | Symptom assessment and care navigation agent | Consumer |
+| [K Health](https://khealth.com) | K Health | AI-first primary care with autonomous triage | Consumer app |
+| [Sensely](https://sensely.com) | Sensely | Virtual nurse agent for chronic disease management | Enterprise |
+| [Buoy Health](https://buoyhealth.com) | Buoy Health | Symptom assessment and care navigation agent | Consumer |
 
 ### 2. Administrative AI Agents
 
 | Agent / System | Developer | What It Does | Status |
 |---------------|-----------|-------------|--------|
-| AKASA | AKASA | Autonomous revenue cycle management | Production |
+| [AKASA](https://akasa.com) | AKASA | Autonomous revenue cycle management | Production |
 | Olive AI (legacy) | Olive | Robotic process automation for healthcare ops | Restructured |
-| Notable Health | Notable Health | Autonomous patient intake, scheduling, billing | Production |
-| Qventus | Qventus | AI agent for hospital operations optimization | Production |
-| Cedar | Cedar | Autonomous patient billing and payment | Production |
-| Infinitus | Infinitus | AI agent that makes phone calls for prior auth, benefits verification | Production |
+| [Notable Health](https://notablehealth.com) | Notable Health | Autonomous patient intake, scheduling, billing | Production |
+| [Qventus](https://qventus.com) | Qventus | AI agent for hospital operations optimization | Production |
+| [Cedar](https://cedar.com) | Cedar | Autonomous patient billing and payment | Production |
+| [Infinitus](https://infinitus.ai) | Infinitus | AI agent that makes phone calls for prior auth, benefits verification | Production |
 
 ### 3. Research AI Agents
 
 | Agent / System | Developer | What It Does | Status |
 |---------------|-----------|-------------|--------|
-| Recursion | Recursion Pharmaceuticals | Autonomous drug discovery pipeline | Production |
-| Insilico Medicine | Insilico Medicine | AI agent that designs drug candidates end-to-end | Clinical trials |
-| BenchSci | BenchSci | AI agent for experiment design and literature review | Production |
-| Semantic Scholar (AI2) | Allen Institute | Autonomous literature search and synthesis | Free tool |
-| Consensus | Consensus | AI agent that answers research questions from papers | Free tool |
+| [Recursion](https://recursion.com) | Recursion Pharmaceuticals | Autonomous drug discovery pipeline | Production |
+| [Insilico Medicine](https://insilico.com) | Insilico Medicine | AI agent that designs drug candidates end-to-end | Clinical trials |
+| [BenchSci](https://benchsci.com) | BenchSci | AI agent for experiment design and literature review | Production |
+| [Semantic Scholar](https://semanticscholar.org) (AI2) | Allen Institute | Autonomous literature search and synthesis | Free tool |
+| [Consensus](https://consensus.app) | Consensus | AI agent that answers research questions from papers | Free tool |
 
 ### 4. Diagnostic AI Agents
 
 | Agent / System | Developer | What It Does | Status |
 |---------------|-----------|-------------|--------|
-| IDx-DR | Digital Diagnostics | Fully autonomous diabetic retinopathy diagnosis | FDA-cleared (autonomous) |
-| Caption Health (GE) | GE Healthcare | AI-guided autonomous cardiac ultrasound | FDA-cleared |
-| Viz.ai LVO | Viz.ai | Autonomous stroke detection + team notification | FDA-cleared |
-| Eko | Eko Health | Autonomous cardiac murmur detection via stethoscope | FDA-cleared |
+| [IDx-DR](https://digitaldiagnostics.com) | Digital Diagnostics | Fully autonomous diabetic retinopathy diagnosis | FDA-cleared (autonomous) |
+| [Caption Health](https://captionhealth.com) (GE) | GE Healthcare | AI-guided autonomous cardiac ultrasound | FDA-cleared |
+| [Viz.ai](https://viz.ai) LVO | Viz.ai | Autonomous stroke detection + team notification | FDA-cleared |
+| [Eko](https://ekohealth.com) | Eko Health | Autonomous cardiac murmur detection via stethoscope | FDA-cleared |
 
 ---
 
@@ -108,9 +108,9 @@ Patient presents with chest pain
 | Project | Institution | Agents | Status |
 |---------|------------|--------|--------|
 | MedAgent-Zero | Microsoft Research | Multi-agent medical reasoning | Research (2024) |
-| Agent Hospital | Tsinghua University | Simulated hospital with AI agents | Research (2024) |
+| [Agent Hospital](https://arxiv.org/abs/2405.02845) | Tsinghua University | Simulated hospital with AI agents | Research (2024) |
 | ClinicalAgent | Various | Multi-agent clinical decision making | Research |
-| AMIE | Google DeepMind | Diagnostic dialogue agent | Research (2024) |
+| [AMIE](https://arxiv.org/abs/2401.05654) | Google DeepMind | Diagnostic dialogue agent | Research (2024) |
 | DrugAgent | Various | Multi-agent drug discovery | Research |
 
 ---
@@ -128,11 +128,11 @@ Patient presents with chest pain
 ### Key LLM Agent Frameworks Used in Healthcare
 | Framework | Developer | Healthcare Adaptation |
 |-----------|-----------|---------------------|
-| LangChain | LangChain | Clinical workflow agents |
-| AutoGen | Microsoft | Multi-agent medical consultation |
-| CrewAI | CrewAI | Healthcare team simulation |
-| LlamaIndex | LlamaIndex | Medical RAG agents |
-| Semantic Kernel | Microsoft | Healthcare copilot development |
+| [LangChain](https://langchain.com) ([GitHub](https://github.com/langchain-ai/langchain)) | LangChain | Clinical workflow agents |
+| [AutoGen](https://github.com/microsoft/autogen) | Microsoft | Multi-agent medical consultation |
+| [CrewAI](https://crewai.com) ([GitHub](https://github.com/crewAIInc/crewAI)) | CrewAI | Healthcare team simulation |
+| [LlamaIndex](https://llamaindex.ai) ([GitHub](https://github.com/run-llama/llama_index)) | LlamaIndex | Medical RAG agents |
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | Microsoft | Healthcare copilot development |
 
 ---
 
@@ -161,17 +161,17 @@ Patient presents with chest pain
 ## Research Papers (Must-Read)
 
 ### Foundational
-1. **"AMIE: A Research AI System for Diagnostic Medical Reasoning"** — Google DeepMind (2024) — Outperformed physicians in diagnostic accuracy
-2. **"Agent Hospital: A Simulacrum of Hospital with AI Agents"** — Tsinghua (2024)
-3. **"Autonomous AI for Diabetic Retinopathy Screening"** — IDx-DR clinical trials
+1. **["AMIE: A Research AI System for Diagnostic Medical Reasoning"](https://arxiv.org/abs/2401.05654)** — Google DeepMind (2024) — Outperformed physicians in diagnostic accuracy
+2. **["Agent Hospital: A Simulacrum of Hospital with AI Agents"](https://arxiv.org/abs/2405.02845)** — Tsinghua (2024)
+3. **"Autonomous AI for Diabetic Retinopathy Screening"** — [IDx-DR](https://digitaldiagnostics.com) clinical trials
 4. **"Large Language Models as Simulated Patients"** — Various (2024)
 5. **"MedAgent-Zero: Zero-shot Medical Agent"** — Microsoft Research
 
 ### Recent (2024-2025)
 1. **"Multi-agent collaboration for clinical reasoning"** — Various (2024)
 2. **"LLM-based clinical decision agents"** — Multiple institutions
-3. **"Hippocratic AI: Safety-focused medical AI agents"** — Hippocratic AI papers
-4. **"Agentic workflows in healthcare administration"** — AKASA, Notable publications
+3. **"Hippocratic AI: Safety-focused medical AI agents"** — [Hippocratic AI](https://hippocratic.ai) papers
+4. **"Agentic workflows in healthcare administration"** — [AKASA](https://akasa.com), [Notable](https://notablehealth.com) publications
 5. **"Regulatory frameworks for autonomous AI in medicine"** — FDA, WHO guidance documents
 
 ---
@@ -181,13 +181,13 @@ Patient presents with chest pain
 ### Well-Funded Startups
 | Company | Funding | Focus | Notable |
 |---------|---------|-------|---------|
-| Hippocratic AI | $120M+ | Patient-facing healthcare agents | Safety-focused, non-diagnostic |
-| Abridge | $200M+ | Autonomous clinical documentation | Epic integration |
-| Notable Health | $200M+ | Autonomous patient workflows | End-to-end automation |
-| Infinitus | $50M+ | AI phone agent for healthcare | Makes calls for prior auth |
-| AKASA | $200M+ | Autonomous revenue cycle | Unified automation platform |
-| K Health | $270M+ | AI primary care agent | 10M+ patients |
-| Qventus | $150M+ | Hospital operations AI agent | Perioperative optimization |
+| [Hippocratic AI](https://hippocratic.ai) | $120M+ | Patient-facing healthcare agents | Safety-focused, non-diagnostic |
+| [Abridge](https://abridge.com) | $200M+ | Autonomous clinical documentation | Epic integration |
+| [Notable Health](https://notablehealth.com) | $200M+ | Autonomous patient workflows | End-to-end automation |
+| [Infinitus](https://infinitus.ai) | $50M+ | AI phone agent for healthcare | Makes calls for prior auth |
+| [AKASA](https://akasa.com) | $200M+ | Autonomous revenue cycle | Unified automation platform |
+| [K Health](https://khealth.com) | $270M+ | AI primary care agent | 10M+ patients |
+| [Qventus](https://qventus.com) | $150M+ | Hospital operations AI agent | Perioperative optimization |
 
 ---
 

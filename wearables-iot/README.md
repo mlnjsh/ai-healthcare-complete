@@ -14,58 +14,58 @@ AI-powered wearable devices and IoT sensors are enabling continuous, real-time h
 
 | Device / Platform | Company | AI Capability | FDA Status |
 |------------------|---------|--------------|-----------|
-| Apple Watch (ECG) | Apple | AFib detection, irregular rhythm alerts | FDA-cleared |
-| KardiaMobile 6L | AliveCor | 6-lead ECG with AI interpretation | FDA-cleared |
-| Fitbit (ECG) | Google/Fitbit | AFib detection from PPG + ECG | FDA-cleared |
-| Samsung Galaxy Watch | Samsung | AFib + irregular heart rhythm | FDA-cleared |
-| Withings ScanWatch | Withings | ECG + SpO2 + respiratory | FDA-cleared |
-| BioButton | BioIntelliSense | Continuous vital signs monitoring | FDA-cleared |
-| Current Health (Best Buy) | Best Buy Health | Remote patient monitoring platform | FDA-cleared |
-| WHOOP 4.0 | WHOOP | HRV, recovery, strain monitoring | Consumer wellness |
-| Oura Ring Gen 3 | Oura | Sleep, HRV, temperature, SpO2 | Consumer wellness |
-| Zio Patch | iRhythm | 14-day continuous ECG with AI analysis | FDA-cleared |
+| [Apple Watch (ECG)](https://apple.com/apple-watch-series-10/health/) | Apple | AFib detection, irregular rhythm alerts | FDA-cleared |
+| [KardiaMobile 6L](https://alivecor.com) | AliveCor | 6-lead ECG with AI interpretation | FDA-cleared |
+| [Fitbit (ECG)](https://fitbit.com) | Google/Fitbit | AFib detection from PPG + ECG | FDA-cleared |
+| [Samsung Galaxy Watch](https://samsung.com/us/watches/) | Samsung | AFib + irregular heart rhythm | FDA-cleared |
+| [Withings ScanWatch](https://withings.com/us/en/scanwatch) | Withings | ECG + SpO2 + respiratory | FDA-cleared |
+| [BioButton](https://biointellisense.com) | BioIntelliSense | Continuous vital signs monitoring | FDA-cleared |
+| [Current Health](https://health.bestbuy.com) | Best Buy Health | Remote patient monitoring platform | FDA-cleared |
+| [WHOOP 4.0](https://whoop.com) | WHOOP | HRV, recovery, strain monitoring | Consumer wellness |
+| [Oura Ring Gen 3](https://ouraring.com) | Oura | Sleep, HRV, temperature, SpO2 | Consumer wellness |
+| [Zio Patch](https://irhythmtech.com) | iRhythm | 14-day continuous ECG with AI analysis | FDA-cleared |
 
 ### 2. Continuous Glucose Monitoring (CGM)
 
 | Device | Company | AI Features | Status |
 |--------|---------|------------|--------|
-| Dexcom G7 | Dexcom | Predictive glucose alerts, trend analysis | FDA-cleared |
-| FreeStyle Libre 3 | Abbott | Continuous glucose reading, pattern recognition | FDA-cleared |
-| Guardian 4 | Medtronic | Predictive low glucose alerts, auto-suspend | FDA-cleared |
-| Eversense E3 | Senseonics | Implantable CGM with AI alerts | FDA-cleared |
-| Levels | Levels Health | Metabolic health AI from CGM data | Consumer wellness |
+| [Dexcom G7](https://dexcom.com) | Dexcom | Predictive glucose alerts, trend analysis | FDA-cleared |
+| [FreeStyle Libre 3](https://freestyle.abbott) | Abbott | Continuous glucose reading, pattern recognition | FDA-cleared |
+| [Guardian 4](https://medtronic.com) | Medtronic | Predictive low glucose alerts, auto-suspend | FDA-cleared |
+| [Eversense E3](https://senseonics.com) | Senseonics | Implantable CGM with AI alerts | FDA-cleared |
+| [Levels](https://levelshealth.com) | Levels Health | Metabolic health AI from CGM data | Consumer wellness |
 
 ### 3. Respiratory Monitoring
 
 | Device / Platform | Company | AI Capability | Status |
 |------------------|---------|--------------|--------|
-| AI-powered pulse oximetry | Masimo, Nonin | SpO2 trend prediction | FDA-cleared |
-| Asthma monitoring | Propeller Health (ResMed) | Inhaler tracking + AI prediction | FDA-cleared |
-| Sleep apnea detection | Withings, Apple Watch | Sleep-disordered breathing detection | FDA-cleared / Research |
-| COPD monitoring | Propeller, Respira Labs | Exacerbation prediction | Clinical use |
-| Digital spirometry | Nuvoair, Spirohome | AI-enhanced lung function testing | FDA-cleared |
+| AI-powered pulse oximetry | [Masimo](https://masimo.com), [Nonin](https://nonin.com) | SpO2 trend prediction | FDA-cleared |
+| Asthma monitoring | [Propeller Health (ResMed)](https://propellerhealth.com) | Inhaler tracking + AI prediction | FDA-cleared |
+| Sleep apnea detection | [Withings](https://withings.com/us/en/scanwatch), [Apple Watch](https://apple.com/apple-watch-series-10/health/) | Sleep-disordered breathing detection | FDA-cleared / Research |
+| COPD monitoring | [Propeller](https://propellerhealth.com), Respira Labs | Exacerbation prediction | Clinical use |
+| Digital spirometry | [Nuvoair](https://nuvoair.com), Spirohome | AI-enhanced lung function testing | FDA-cleared |
 
 ### 4. Movement & Rehabilitation
 
 | Device / Platform | Company | AI Capability | Status |
 |------------------|---------|--------------|--------|
-| Apple Watch fall detection | Apple | Fall detection + emergency SOS | FDA-cleared feature |
-| SWORD Health | SWORD | AI-guided physical therapy via sensors | Clinical use |
-| Hinge Health | Hinge Health | Wearable-guided MSK therapy | Clinical use |
-| Kaia Health | Kaia | Camera-based motion tracking PT | Clinical use |
-| BioSensics | BioSensics | Gait analysis, fall risk assessment | FDA-cleared |
+| [Apple Watch fall detection](https://apple.com/apple-watch-series-10/health/) | Apple | Fall detection + emergency SOS | FDA-cleared feature |
+| [SWORD Health](https://swordhealth.com) | SWORD | AI-guided physical therapy via sensors | Clinical use |
+| [Hinge Health](https://hingehealth.com) | Hinge Health | Wearable-guided MSK therapy | Clinical use |
+| [Kaia Health](https://kaiahealth.com) | Kaia | Camera-based motion tracking PT | Clinical use |
+| [BioSensics](https://biosensics.com) | BioSensics | Gait analysis, fall risk assessment | FDA-cleared |
 | APDM (Clario) | Clario | Movement disorder assessment | FDA-cleared |
 
 ### 5. Remote Patient Monitoring (RPM)
 
 | Platform | Company | Capabilities | Scale |
 |----------|---------|-------------|-------|
-| Current Health | Best Buy Health | Multi-vital continuous monitoring | 1000+ hospitals |
-| Biofourmis | Biofourmis | AI analytics for RPM | FDA-cleared |
-| Vivify Health | Optum | Remote monitoring platform | Large health systems |
-| Health Recovery Solutions | HRS | Post-discharge monitoring | 300+ health systems |
-| TytoCare | TytoCare | AI-guided remote physical exam | Consumer + Clinical |
-| Withings Health Solutions | Withings | Connected devices + AI analytics | B2B + Consumer |
+| [Current Health](https://health.bestbuy.com) | Best Buy Health | Multi-vital continuous monitoring | 1000+ hospitals |
+| [Biofourmis](https://biofourmis.com) | Biofourmis | AI analytics for RPM | FDA-cleared |
+| [Vivify Health](https://vivifyhealth.com) | Optum | Remote monitoring platform | Large health systems |
+| [Health Recovery Solutions](https://healthrecoverysolutions.com) | HRS | Post-discharge monitoring | 300+ health systems |
+| [TytoCare](https://tytocare.com) | TytoCare | AI-guided remote physical exam | Consumer + Clinical |
+| [Withings Health Solutions](https://withings.com/us/en/scanwatch) | Withings | Connected devices + AI analytics | B2B + Consumer |
 
 ---
 
@@ -91,12 +91,12 @@ AI-powered wearable devices and IoT sensors are enabling continuous, real-time h
 | Application | Sensors/Devices | AI Capability |
 |------------|----------------|--------------|
 | Patient location tracking | RTLS badges, Bluetooth beacons | Flow optimization, safety |
-| Equipment tracking | Asset tags (CenTrak, Stanley) | Reduce search time, utilization |
+| Equipment tracking | Asset tags ([CenTrak](https://centrak.com), Stanley) | Reduce search time, utilization |
 | Environmental monitoring | Temperature, humidity, air quality sensors | Compliance, infection control |
-| Hand hygiene monitoring | SwipeSense, BioVigil | Compliance tracking |
-| Smart beds | Stryker, Hill-Rom | Fall risk, pressure ulcer prevention |
+| Hand hygiene monitoring | [SwipeSense](https://swipesense.com), BioVigil | Compliance tracking |
+| Smart beds | [Stryker](https://stryker.com), [Hill-Rom](https://hillrom.com) | Fall risk, pressure ulcer prevention |
 | Medication tracking | Smart cabinets, RFID | Automated dispensing, waste tracking |
-| Infusion pump monitoring | Baxter, BD, ICU Medical | Dosing accuracy, alarm management |
+| Infusion pump monitoring | [Baxter](https://hillrom.com), BD, ICU Medical | Dosing accuracy, alarm management |
 | Smart OR | Multiple sensor integration | Surgical workflow tracking |
 
 ---
@@ -104,9 +104,9 @@ AI-powered wearable devices and IoT sensors are enabling continuous, real-time h
 ## Research Papers (Must-Read)
 
 ### Foundational
-1. **"Apple Heart Study"** — Perez et al. (2019) — NEJM — 400K+ participants, AFib detection
-2. **"Cardiologist-level arrhythmia detection from ambulatory ECG"** — Hannun et al. (2019) — Nature Medicine
-3. **"Continuous monitoring with wearable sensors"** — Dunn et al. (2018) — PLOS Biology
+1. **["Apple Heart Study"](https://nejm.org/doi/full/10.1056/NEJMoa1901183)** — Perez et al. (2019) — NEJM — 400K+ participants, AFib detection
+2. **["Cardiologist-level arrhythmia detection from ambulatory ECG"](https://nature.com/articles/s41591-018-0268-3)** — Hannun et al. (2019) — Nature Medicine
+3. **["Continuous monitoring with wearable sensors"](https://doi.org/10.1371/journal.pbio.2005143)** — Dunn et al. (2018) — PLOS Biology
 4. **"Digital biomarkers: convergence of digital health and biomarker science"** — Coravos et al.
 5. **"Smartphone and wearable sensors for health monitoring"** — Various review papers
 

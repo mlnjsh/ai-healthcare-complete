@@ -14,50 +14,50 @@ AI is transforming cancer treatment through precision oncology — matching the 
 
 | Application | Description | Key Players | Impact |
 |------------|-------------|-------------|--------|
-| Genomic-guided therapy | Match mutations to targeted therapies | Tempus, Foundation Medicine, Guardant | 30-40% patients get matched therapy |
-| Tumor molecular profiling | Comprehensive genomic profiling (CGP) | Foundation Medicine (FoundationOne CDx) | FDA-approved companion diagnostic |
-| Treatment response prediction | Predict chemo/immunotherapy response | Tempus, SOPHiA Genetics | 15-25% improvement in response rates |
-| Liquid biopsy AI | Blood-based cancer detection/monitoring | Guardant Health, GRAIL, Natera | Non-invasive monitoring |
-| Biomarker discovery | AI-identified new biomarkers | Recursion, Owkin | Accelerated biomarker validation |
+| Genomic-guided therapy | Match mutations to targeted therapies | [Tempus](https://www.tempus.com), [Foundation Medicine](https://www.foundationmedicine.com), [Guardant](https://www.guardanthealth.com) | 30-40% patients get matched therapy |
+| Tumor molecular profiling | Comprehensive genomic profiling (CGP) | [Foundation Medicine](https://www.foundationmedicine.com) (FoundationOne CDx) | FDA-approved companion diagnostic |
+| Treatment response prediction | Predict chemo/immunotherapy response | [Tempus](https://www.tempus.com), [SOPHiA Genetics](https://www.sophiagenetics.com) | 15-25% improvement in response rates |
+| Liquid biopsy AI | Blood-based cancer detection/monitoring | [Guardant Health](https://www.guardanthealth.com), [GRAIL](https://www.grail.com), [Natera](https://www.natera.com) | Non-invasive monitoring |
+| Biomarker discovery | AI-identified new biomarkers | [Recursion](https://www.recursion.com), [Owkin](https://www.owkin.com) | Accelerated biomarker validation |
 
 ### 2. Chemotherapy Dose Optimization
 
 | Application | Description | Key Players | Status |
 |------------|-------------|-------------|--------|
-| Pharmacokinetic modeling | Predict drug levels in individual patients | InsightRX, DoseMeRx | FDA-cleared |
+| Pharmacokinetic modeling | Predict drug levels in individual patients | [InsightRX](https://www.insight-rx.com), DoseMeRx | FDA-cleared |
 | Toxicity prediction | Predict severe adverse events before they occur | Various research groups | Clinical trials |
-| Dose adjustment algorithms | AI-optimized dosing based on patient factors | InsightRX, TDMx | Clinical use |
-| Combination therapy optimization | Optimal drug combinations | Insilico Medicine, BenevolentAI | Research/Clinical |
+| Dose adjustment algorithms | AI-optimized dosing based on patient factors | [InsightRX](https://www.insight-rx.com), TDMx | Clinical use |
+| Combination therapy optimization | Optimal drug combinations | [Insilico Medicine](https://www.insilico.com), [BenevolentAI](https://www.benevolent.com) | Research/Clinical |
 | Treatment scheduling | Optimal infusion timing and frequency | Research stage | Clinical trials |
 
 ### 3. Radiation Therapy AI
 
 | Application | Description | Key Players | Status |
 |------------|-------------|-------------|--------|
-| Auto-contouring | AI segmentation of organs/tumors for planning | Limbus AI, MVision, Therapanacea | FDA-cleared |
-| Treatment planning | AI-optimized radiation dose distribution | RaySearch, Varian (Siemens) | Clinical use |
-| Adaptive radiotherapy | Real-time plan adjustment during treatment | Varian Ethos, Elekta Unity | FDA-cleared |
-| Proton therapy planning | AI-optimized proton beam therapy | IBA, Varian | Emerging |
+| Auto-contouring | AI segmentation of organs/tumors for planning | [Limbus AI](https://www.limbusai.com), [MVision](https://www.mvision.ai), Therapanacea | FDA-cleared |
+| Treatment planning | AI-optimized radiation dose distribution | [RaySearch](https://www.raysearchlabs.com), [Varian (Siemens)](https://www.varian.com) | Clinical use |
+| Adaptive radiotherapy | Real-time plan adjustment during treatment | [Varian](https://www.varian.com) Ethos, Elekta Unity | FDA-cleared |
+| Proton therapy planning | AI-optimized proton beam therapy | IBA, [Varian](https://www.varian.com) | Emerging |
 | Quality assurance | AI-based plan verification | Radformation, Sun Nuclear | Clinical use |
 
 ### 4. Immunotherapy AI
 
 | Application | Description | Key Players | Status |
 |------------|-------------|-------------|--------|
-| PD-L1/TMB prediction | Predict immunotherapy response from pathology | PathAI, Owkin | Research/Clinical |
-| Neoantigen prediction | Identify targets for cancer vaccines | Gritstone Bio, BioNTech | Clinical trials |
+| PD-L1/TMB prediction | Predict immunotherapy response from pathology | PathAI, [Owkin](https://www.owkin.com) | Research/Clinical |
+| Neoantigen prediction | Identify targets for cancer vaccines | [Gritstone Bio](https://www.gritstonebio.com), BioNTech | Clinical trials |
 | CAR-T optimization | AI-designed chimeric antigen receptors | Absci, Generate Biomedicines | Research |
-| Immune profiling | Tumor microenvironment analysis | Akoya Biosciences, Ultivue | Clinical use |
-| Combination prediction | Predict immunotherapy + chemo synergy | Tempus, Predicine | Clinical trials |
+| Immune profiling | Tumor microenvironment analysis | [Akoya Biosciences](https://www.akoyabio.com), Ultivue | Clinical use |
+| Combination prediction | Predict immunotherapy + chemo synergy | [Tempus](https://www.tempus.com), Predicine | Clinical trials |
 
 ### 5. Cancer Screening & Early Detection
 
 | Application | Description | Key Players | Status |
 |------------|-------------|-------------|--------|
-| Multi-cancer early detection | Blood tests detecting 50+ cancers | GRAIL (Galleri), Exact Sciences | Clinical/FDA review |
-| Circulating tumor DNA (ctDNA) | Monitor minimal residual disease | Natera (Signatera), Guardant | FDA-cleared (some) |
+| Multi-cancer early detection | Blood tests detecting 50+ cancers | [GRAIL](https://www.grail.com) (Galleri), [Exact Sciences](https://www.exactsciences.com) | Clinical/FDA review |
+| Circulating tumor DNA (ctDNA) | Monitor minimal residual disease | [Natera](https://www.natera.com) (Signatera), [Guardant](https://www.guardanthealth.com) | FDA-cleared (some) |
 | Lung cancer screening AI | Low-dose CT analysis | Optellum, Riverain | FDA-cleared |
-| Colorectal cancer screening | AI-enhanced colonoscopy | GI Genius (Medtronic), Iterative Scopes | FDA-cleared |
+| Colorectal cancer screening | AI-enhanced colonoscopy | GI Genius (Medtronic), [Iterative Scopes](https://www.iterativescopes.com) | FDA-cleared |
 | Cervical cancer screening | AI-powered Pap smear analysis | Hologic (Genius Digital), BD | FDA-cleared |
 
 ---
@@ -67,20 +67,20 @@ AI is transforming cancer treatment through precision oncology — matching the 
 ### Comprehensive Platforms
 | Platform | Company | What It Does | Patients Served |
 |----------|---------|-------------|----------------|
-| Tempus ONE | Tempus | Genomic sequencing + AI treatment matching | 500K+ patients |
-| FoundationOne CDx | Foundation Medicine (Roche) | CGP for 300+ genes | 1M+ tests |
-| Guardant360 | Guardant Health | Liquid biopsy CGP | 400K+ tests |
-| Caris Molecular Intelligence | Caris Life Sciences | Multi-omic profiling | 300K+ patients |
-| SOPHiA DDM | SOPHiA Genetics | Genomic data analysis | 1M+ analyses |
-| Oncotype DX | Exact Sciences | Breast cancer recurrence score | 1.5M+ tests |
-| MammaPrint | Agendia | 70-gene breast cancer assay | 200K+ tests |
+| Tempus ONE | [Tempus](https://www.tempus.com) | Genomic sequencing + AI treatment matching | 500K+ patients |
+| FoundationOne CDx | [Foundation Medicine](https://www.foundationmedicine.com) (Roche) | CGP for 300+ genes | 1M+ tests |
+| Guardant360 | [Guardant Health](https://www.guardanthealth.com) | Liquid biopsy CGP | 400K+ tests |
+| Caris Molecular Intelligence | [Caris Life Sciences](https://www.carislifesciences.com) | Multi-omic profiling | 300K+ patients |
+| SOPHiA DDM | [SOPHiA Genetics](https://www.sophiagenetics.com) | Genomic data analysis | 1M+ analyses |
+| Oncotype DX | [Exact Sciences](https://www.exactsciences.com) | Breast cancer recurrence score | 1.5M+ tests |
+| MammaPrint | [Agendia](https://www.agendia.com) | 70-gene breast cancer assay | 200K+ tests |
 
 ### Molecular Tumor Boards
 AI-assisted tumor boards analyze complex genomic data to recommend treatments:
 - **Watson for Oncology (IBM)** — Discontinued but pioneered the concept
-- **Tempus AI** — Real-time genomic analysis during tumor boards
-- **OncoKB** — Memorial Sloan Kettering's precision oncology knowledge base
-- **CIViC** — Community-curated clinical interpretation of variants in cancer
+- **[Tempus](https://www.tempus.com) AI** — Real-time genomic analysis during tumor boards
+- **[OncoKB](https://www.oncokb.org)** — Memorial Sloan Kettering's precision oncology knowledge base
+- **[CIViC](https://civicdb.org)** — Community-curated clinical interpretation of variants in cancer
 
 ---
 
@@ -92,16 +92,16 @@ AI-assisted tumor boards analyze complex genomic data to recommend treatments:
 | Mammography screening | Lunit INSIGHT MMG, iCAD | High (RCTs) |
 | Pathology grading | Paige Breast, PathAI | FDA-cleared |
 | Recurrence prediction | Oncotype DX + AI | Standard of care |
-| Treatment planning | Tempus, FoundationOne | Clinical use |
+| Treatment planning | [Tempus](https://www.tempus.com), [FoundationOne](https://www.foundationmedicine.com) | Clinical use |
 | Surgery planning | AI-guided lumpectomy margins | Research |
 
 ### Lung Cancer
 | Application | AI Tool | Evidence Level |
 |------------|---------|---------------|
 | Screening (LDCT) | Optellum, Riverain | FDA-cleared |
-| Biopsy guidance | Ion (Intuitive), Monarch (J&J) | FDA-cleared |
-| PD-L1 prediction | Owkin, Lunit | Research |
-| Treatment response | Tempus, Foundation Medicine | Clinical use |
+| Biopsy guidance | Ion ([Intuitive](https://www.intuitivesurgical.com)), Monarch ([J&J](https://www.jnjmedtech.com)) | FDA-cleared |
+| PD-L1 prediction | [Owkin](https://www.owkin.com), Lunit | Research |
+| Treatment response | [Tempus](https://www.tempus.com), [Foundation Medicine](https://www.foundationmedicine.com) | Clinical use |
 
 ### Prostate Cancer
 | Application | AI Tool | Evidence Level |
@@ -115,8 +115,8 @@ AI-assisted tumor boards analyze complex genomic data to recommend treatments:
 | Application | AI Tool | Evidence Level |
 |------------|---------|---------------|
 | Polyp detection | GI Genius (Medtronic) | FDA-cleared |
-| MSI prediction | PathAI, Owkin | Research |
-| ctDNA monitoring | Natera Signatera | FDA-cleared |
+| MSI prediction | PathAI, [Owkin](https://www.owkin.com) | Research |
+| ctDNA monitoring | [Natera](https://www.natera.com) Signatera | FDA-cleared |
 
 ---
 
@@ -124,15 +124,15 @@ AI-assisted tumor boards analyze complex genomic data to recommend treatments:
 
 ### Foundational
 1. **"Deep learning enables pathologist-level cancer diagnosis"** — Multiple studies establishing AI pathology
-2. **"Multi-cancer early detection with cell-free DNA"** — GRAIL/Galleri validation studies
-3. **"AI-guided precision oncology clinical decision support"** — Tempus publications
+2. **["Multi-cancer early detection with cell-free DNA"](https://www.nature.com/articles/s41586-023-05696-3)** — [GRAIL](https://www.grail.com)/Galleri validation studies
+3. **"AI-guided precision oncology clinical decision support"** — [Tempus](https://www.tempus.com) publications
 4. **"Predicting chemotherapy response with deep learning"** — Various groups (Nature Medicine)
-5. **"Comprehensive genomic profiling in oncology"** — Foundation Medicine landmark studies
+5. **["Comprehensive genomic profiling in oncology"](https://www.foundationmedicine.com)** — [Foundation Medicine](https://www.foundationmedicine.com) landmark studies
 
 ### Recent (2024-2025)
 1. **"Foundation models for cancer pathology"** — CONCH, UNI models
-2. **"AI-predicted neoantigen vaccines"** — BioNTech/Gritstone results
-3. **"Liquid biopsy AI for minimal residual disease"** — Natera/Guardant updates
+2. **"AI-predicted neoantigen vaccines"** — BioNTech/[Gritstone](https://www.gritstonebio.com) results
+3. **"Liquid biopsy AI for minimal residual disease"** — [Natera](https://www.natera.com)/[Guardant](https://www.guardanthealth.com) updates
 4. **"Large language models for oncology decision support"** — Multiple groups
 5. **"Federated learning for multi-center oncology AI"** — NVIDIA FLARE applications
 
@@ -143,17 +143,17 @@ AI-assisted tumor boards analyze complex genomic data to recommend treatments:
 ### Currently Available
 | Tool | Function | Access |
 |------|----------|--------|
-| OncoKB | Variant interpretation for precision oncology | Free (academic) |
-| CIViC | Community variant interpretation | Open source |
-| My Cancer Genome | Genotype-to-treatment database | Free |
-| Clinical Trials.gov + AI | AI-matched clinical trial finder | Free |
+| [OncoKB](https://www.oncokb.org) | Variant interpretation for precision oncology | Free (academic) |
+| [CIViC](https://civicdb.org) | Community variant interpretation | Open source |
+| [My Cancer Genome](https://www.mycancergenome.org) | Genotype-to-treatment database | Free |
+| [ClinicalTrials.gov](https://clinicaltrials.gov) + AI | AI-matched clinical trial finder | Free |
 | Tempus Lens | AI-powered literature search for oncologists | Subscription |
 
 ### AI Clinical Trial Matching
-- **Tempus Trial Hub** — AI matches patients to trials based on genomic profile
-- **Flatiron (Roche)** — Real-world evidence + trial matching
+- **[Tempus](https://www.tempus.com) Trial Hub** — AI matches patients to trials based on genomic profile
+- **[Flatiron](https://www.flatiron.com) (Roche)** — Real-world evidence + trial matching
 - **TrialJectory** — Patient-facing trial matching
-- **Deep 6 AI** — Clinical trial patient recruitment
+- **[Deep 6 AI](https://www.deep6.ai)** — Clinical trial patient recruitment
 
 ---
 
@@ -183,5 +183,13 @@ AI-assisted tumor boards analyze complex genomic data to recommend treatments:
 
 ---
 
-*Sources: ASCO, ESMO, Nature Medicine, Nature Reviews Cancer, FDA, NCI*
+## Video Resources
+
+| Source | Content |
+|--------|---------|
+| [ASCO (YouTube)](https://www.youtube.com/@AmericanSocietyClinicalOncology) | Conference talks, treatment updates, precision oncology sessions |
+
+---
+
+*Sources: [ASCO](https://www.youtube.com/@AmericanSocietyClinicalOncology), ESMO, Nature Medicine, Nature Reviews Cancer, FDA, NCI*
 *Updated: February 2025*
