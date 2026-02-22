@@ -14,21 +14,21 @@ AI is addressing the global mental health crisis by expanding access to care, en
 
 | Application | Description | Key Players | Status |
 |------------|-------------|-------------|--------|
-| CBT chatbots | AI-delivered cognitive behavioral therapy | Woebot, Wysa, Youper | FDA Breakthrough (Woebot) |
-| AI mental health companions | Conversational support agents | Replika, Character AI (therapeutic use) | Consumer |
-| Digital therapeutics (DTx) | Prescription digital mental health treatments | Pear Therapeutics (legacy), Freespira | FDA-cleared |
-| AI coaching | Behavioral coaching for stress/anxiety | Ginger (Headspace Health), Spring Health | Employer programs |
-| Crisis intervention | AI-assisted suicide prevention | Crisis Text Line (AI triage), 988 AI tools | Active deployment |
+| CBT chatbots | AI-delivered cognitive behavioral therapy | [Woebot](https://woebothealth.com), [Wysa](https://wysa.com), [Youper](https://youper.ai) | FDA Breakthrough (Woebot) |
+| AI mental health companions | Conversational support agents | [Replika](https://replika.com), Character AI (therapeutic use) | Consumer |
+| Digital therapeutics (DTx) | Prescription digital mental health treatments | Pear Therapeutics (legacy), [Freespira](https://freespira.com) | FDA-cleared |
+| AI coaching | Behavioral coaching for stress/anxiety | [Headspace Health](https://headspace.com), [Spring Health](https://springhealth.com) | Employer programs |
+| Crisis intervention | AI-assisted suicide prevention | [Crisis Text Line](https://crisistextline.org) (AI triage), 988 AI tools | Active deployment |
 
 ### 2. Screening & Detection
 
 | Application | Description | Key Players | Status |
 |------------|-------------|-------------|--------|
 | Depression screening | PHQ-9/GAD-7 AI-enhanced screening | Various EHR-integrated | Clinical use |
-| Speech/voice analysis | Detect depression, anxiety from voice patterns | Kintsugi, Ellipsis Health, Sonde Health | Clinical trials |
-| Natural language analysis | Detect mental health signals in text/speech | Clarigent Health, Ginger | Clinical use |
+| Speech/voice analysis | Detect depression, anxiety from voice patterns | [Kintsugi](https://kintsugihealth.com), [Ellipsis Health](https://ellipsishealth.com), [Sonde Health](https://sondehealth.com) | Clinical trials |
+| Natural language analysis | Detect mental health signals in text/speech | [Clarigent Health](https://clarigent.com), Ginger | Clinical use |
 | Social media monitoring | Identify at-risk individuals from posts | Research stage (ethical concerns) | Research only |
-| Behavioral biomarkers | Phone usage patterns indicating mood changes | Mindstrong (legacy), BiAffect | Research |
+| Behavioral biomarkers | Phone usage patterns indicating mood changes | [Mindstrong](https://mindstrong.com) (legacy), BiAffect | Research |
 | Facial expression analysis | Detect emotional states from video | Affectiva, iMotions | Research |
 
 ### 3. Treatment Personalization
@@ -36,30 +36,30 @@ AI is addressing the global mental health crisis by expanding access to care, en
 | Application | Description | Key Players | Status |
 |------------|-------------|-------------|--------|
 | Medication selection | Predict antidepressant response | Genomind, AssureRx, GeneSight | Pharmacogenomics |
-| Treatment matching | Match patients to optimal therapy type | Spring Health, Cerebral | Clinical use |
+| Treatment matching | Match patients to optimal therapy type | [Spring Health](https://springhealth.com), [Cerebral](https://cerebral.com) | Clinical use |
 | Dosage optimization | AI-guided medication titration | Research stage | Clinical trials |
-| Therapy personalization | Adapt therapy approach in real-time | Woebot, Limbic | Emerging |
-| Relapse prediction | Predict mental health crisis before it occurs | Mindstrong (legacy), research | Research |
+| Therapy personalization | Adapt therapy approach in real-time | [Woebot](https://woebothealth.com), [Limbic](https://limbic.ai) | Emerging |
+| Relapse prediction | Predict mental health crisis before it occurs | [Mindstrong](https://mindstrong.com) (legacy), research | Research |
 
 ### 4. Continuous Monitoring
 
 | Application | Description | Key Players | Status |
 |------------|-------------|-------------|--------|
 | Mood tracking AI | AI-analyzed mood patterns over time | Daylio + AI, Bearable | Consumer apps |
-| Sleep analysis | Sleep quality impact on mental health | Oura, WHOOP, Fitbit + AI | Consumer/Clinical |
+| Sleep analysis | Sleep quality impact on mental health | [Oura](https://ouraring.com), [WHOOP](https://whoop.com), [Fitbit](https://fitbit.com) + AI | Consumer/Clinical |
 | Activity monitoring | Movement patterns correlated with mood | Various wearables + AI | Research |
 | EMA (Ecological Momentary Assessment) | Real-time symptom sampling | Multiple research platforms | Research/Clinical |
-| Digital phenotyping | Comprehensive digital behavior analysis | Mindstrong (legacy), LAMP | Research |
+| Digital phenotyping | Comprehensive digital behavior analysis | [Mindstrong](https://mindstrong.com) (legacy), LAMP | Research |
 
 ### 5. Provider Support
 
 | Application | Description | Key Players | Status |
 |------------|-------------|-------------|--------|
-| Session note generation | AI documentation for therapy sessions | Eleos Health, Blueprint Health | Clinical use |
-| Treatment progress tracking | AI-analyzed treatment outcomes | Greenspace, Blueprint Health | Clinical use |
-| Risk assessment | AI-predicted patient risk scores | Clarigent Health | Clinical use |
-| Supervision support | AI-assisted clinical supervision | Lyssn | Clinical use |
-| Measurement-based care | Automated outcome measurement | Blueprint Health, Owl Insights | Clinical use |
+| Session note generation | AI documentation for therapy sessions | [Eleos Health](https://eleoshealth.com), [Blueprint Health](https://blueprinthealth.com) | Clinical use |
+| Treatment progress tracking | AI-analyzed treatment outcomes | Greenspace, [Blueprint Health](https://blueprinthealth.com) | Clinical use |
+| Risk assessment | AI-predicted patient risk scores | [Clarigent Health](https://clarigent.com) | Clinical use |
+| Supervision support | AI-assisted clinical supervision | [Lyssn](https://lyssn.io) | Clinical use |
+| Measurement-based care | Automated outcome measurement | [Blueprint Health](https://blueprinthealth.com), Owl Insights | Clinical use |
 
 ---
 
@@ -68,20 +68,20 @@ AI is addressing the global mental health crisis by expanding access to care, en
 ### AI-First Mental Health Platforms
 | Company | Product | Focus | Funding | Users |
 |---------|---------|-------|---------|-------|
-| Woebot Health | Woebot | CBT chatbot (FDA Breakthrough) | $120M+ | 1.5M+ |
-| Wysa | Wysa | AI mental health companion | $30M+ | 5M+ |
-| Spring Health | Platform | AI treatment matching | $300M+ | 10M+ covered lives |
-| Headspace/Ginger | Headspace Health | AI coaching + teletherapy | Merged ($3B+) | 100M+ |
-| Cerebral | Platform | AI-guided psychiatric care | $300M+ | 1M+ |
-| Kintsugi | Voice AI | Depression detection from voice | $20M+ | B2B partnerships |
-| Eleos Health | AI scribe | Therapy session documentation | $40M+ | 50K+ providers |
-| Talkiatry | Platform | AI-enhanced psychiatry | $200M+ | Growing network |
-| Limbic | AI triage | Mental health assessment chatbot | $15M+ | NHS partnerships |
+| [Woebot Health](https://woebothealth.com) | Woebot | CBT chatbot (FDA Breakthrough) | $120M+ | 1.5M+ |
+| [Wysa](https://wysa.com) | Wysa | AI mental health companion | $30M+ | 5M+ |
+| [Spring Health](https://springhealth.com) | Platform | AI treatment matching | $300M+ | 10M+ covered lives |
+| [Headspace Health](https://headspace.com) | Headspace Health | AI coaching + teletherapy | Merged ($3B+) | 100M+ |
+| [Cerebral](https://cerebral.com) | Platform | AI-guided psychiatric care | $300M+ | 1M+ |
+| [Kintsugi](https://kintsugihealth.com) | Voice AI | Depression detection from voice | $20M+ | B2B partnerships |
+| [Eleos Health](https://eleoshealth.com) | AI scribe | Therapy session documentation | $40M+ | 50K+ providers |
+| [Talkiatry](https://talkiatry.com) | Platform | AI-enhanced psychiatry | $200M+ | Growing network |
+| [Limbic](https://limbic.ai) | AI triage | Mental health assessment chatbot | $15M+ | NHS partnerships |
 
 ### Big Tech in Mental Health AI
 | Company | Initiative |
 |---------|-----------|
-| Google | Depression/anxiety detection research, Fitbit stress tracking |
+| Google | Depression/anxiety detection research, [Fitbit](https://fitbit.com) stress tracking |
 | Apple | Mood tracking (iOS 17+), Apple Watch mental health features |
 | Amazon | Alexa Care Hub, Halo mood detection (discontinued) |
 | Microsoft | Viva Insights wellbeing, Teams wellbeing features |
@@ -94,11 +94,11 @@ AI is addressing the global mental health crisis by expanding access to care, en
 ### Therapeutic Approaches Delivered by AI
 | Modality | AI Delivery | Evidence Level |
 |----------|------------|---------------|
-| Cognitive Behavioral Therapy (CBT) | Woebot, Wysa | Strong (RCTs published) |
-| Dialectical Behavior Therapy (DBT) | Woebot DBT module | Moderate |
+| Cognitive Behavioral Therapy (CBT) | [Woebot](https://woebothealth.com), [Wysa](https://wysa.com) | Strong (RCTs published) |
+| Dialectical Behavior Therapy (DBT) | [Woebot](https://woebothealth.com) DBT module | Moderate |
 | Acceptance & Commitment Therapy (ACT) | Various apps | Moderate |
 | Psychoeducation | Multiple platforms | Strong |
-| Mindfulness-Based Therapy | Headspace, Calm + AI | Strong |
+| Mindfulness-Based Therapy | [Headspace](https://headspace.com), [Calm](https://calm.com) + AI | Strong |
 | Motivational Interviewing | AI coaching tools | Emerging |
 | Exposure Therapy (VR-assisted) | Limbix, Psious | Moderate (VR + AI) |
 
@@ -123,18 +123,28 @@ AI is addressing the global mental health crisis by expanding access to care, en
 ## Research Papers (Must-Read)
 
 ### Foundational
-1. **"Delivering CBT to young adults with symptoms of depression via a fully automated conversational agent (Woebot)"** — Fitzpatrick et al. (2017)
-2. **"Digital Mental Health: Promises and Perils"** — Torous et al. (2019) — World Psychiatry
-3. **"Machine learning for precision psychiatry"** — Bzdok & Meyer-Lindenberg (2018) — JAMA Psychiatry
+1. **["Delivering CBT to young adults with symptoms of depression via a fully automated conversational agent (Woebot)"](https://doi.org/10.2196/mental.7785)** — Fitzpatrick et al. (2017) — JMIR Mental Health
+2. **["Digital Mental Health: Promises and Perils"](https://doi.org/10.1002/wps.20600)** — Torous et al. (2019) — World Psychiatry
+3. **["Machine learning for precision psychiatry"](https://doi.org/10.1001/jamapsychiatry.2017.4502)** — Bzdok & Meyer-Lindenberg (2018) — JAMA Psychiatry
 4. **"Detecting depression from voice"** — Various studies on acoustic biomarkers
 5. **"Smartphone-based digital phenotyping"** — Torous et al. (2016) — Neuropsychopharmacology
 
 ### Recent (2024-2025)
 1. **"LLMs as mental health support tools"** — Multiple studies (2024)
 2. **"AI chatbots for youth mental health"** — Clinical trial results (2024)
-3. **"Voice biomarkers for depression detection"** — Kintsugi, Sonde publications
+3. **"Voice biomarkers for depression detection"** — [Kintsugi](https://kintsugihealth.com), [Sonde Health](https://sondehealth.com) publications
 4. **"Digital therapeutics for substance use disorders"** — FDA-cleared DTx outcomes
-5. **"Ethical frameworks for mental health AI"** — WHO, APA guidance (2024)
+5. **"Ethical frameworks for mental health AI"** — [WHO](https://who.int/health-topics/mental-health), [APA](https://apa.org) guidance (2024)
+
+---
+
+## Resources
+
+| Organization | Focus | Link |
+|-------------|-------|------|
+| [NIMH](https://nimh.nih.gov) | National Institute of Mental Health | Research & statistics |
+| [APA](https://apa.org) | American Psychological Association | Guidelines & standards |
+| [WHO Mental Health](https://who.int/health-topics/mental-health) | World Health Organization | Global mental health data |
 
 ---
 
@@ -164,5 +174,5 @@ AI is addressing the global mental health crisis by expanding access to care, en
 
 ---
 
-*Sources: World Psychiatry, JAMA Psychiatry, Lancet Digital Health, WHO, NIMH*
+*Sources: World Psychiatry, JAMA Psychiatry, Lancet Digital Health, [WHO](https://who.int/health-topics/mental-health), [NIMH](https://nimh.nih.gov)*
 *Updated: February 2025*
