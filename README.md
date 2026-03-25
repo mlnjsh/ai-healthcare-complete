@@ -475,3 +475,34 @@ MIT License — See [LICENSE](LICENSE) for details.
 If you found this useful, consider giving it a star!
 
 </div>
+
+
+---
+
+## Contributors & Domain Experts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mlnjsh">
+        <img src="https://github.com/mlnjsh.png" width="80px;" alt="Milan Amrut Joshi"/><br />
+        <sub><b>Milan Amrut Joshi</b></sub>
+      </a><br />
+      <sub>Project Author</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Project-MONAI">
+        <img src="https://github.com/Project-MONAI.png" width="80px;" alt="Project MONAI"/><br />
+        <sub><b>Project MONAI</b></sub>
+      </a><br />
+      <sub>Medical Open Network for AI</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/microsoft">
+        <img src="https://github.com/microsoft.png" width="80px;" alt="Microsoft"/><br />
+        <sub><b>Microsoft</b></sub>
+      </a><br />
+      <sub>BioGPT, health AI research</sub>
+    </td>
+  </tr>
+</table>
